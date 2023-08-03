@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CS Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Oct 08 2015 12:15:09 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: Thu Oct 08 2015 12:15:17 GMT+0500 (Pakistan Standard Time)\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"Language: Burmese\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: my_MM\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "CS Framework"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom Post Types Management"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:16 ../include/meta-boxes/event_meta.php:49
+msgid "Event Options"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:32
+msgid "General"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:36
+msgid "Sub Header"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:41
+msgid "Header Absolute"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:44
+msgid "Seo Options"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:48
+msgid "Location"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:100
+msgid "Social Sharing"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:109 ../include/post-types/events.php:174 .
+#: ./templates/events/single-events.php:147
+msgid "Tags"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:127
+msgid "Location Map"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:135
+msgid "Event Location"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:140
+msgid "Address"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:149
+msgid "City / Town"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:158
+msgid "Post Code"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:167
+msgid "Region"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:181
+msgid "Country"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:194
+msgid "Search This Location on Map"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:285
+msgid "Event Start Date"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:294
+msgid "Event End Date"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:303 ../templates/events/event-fancy.php:
+#: 51 ../templates/events/event-list.php:94 ../templates/events/event-simple.php:
+#: 80 ../templates/events/single-events.php:102
+msgid "All Day"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:312 ../include/meta-boxes/event_meta.php:
+#: 336 ../include/meta-boxes/event_meta.php:354 ../include/meta-boxes/event_meta.
+#: php:374
+msgid "Wrapper"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:318
+msgid "Event Start Time"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:327
+msgid "Event End Time"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:343
+msgid "Repeat"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:347 ../include/meta-boxes/event_meta.php:
+#: 363
+msgid "Repeat how many time"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:350
+msgid "-- Never Repeat --"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:350
+msgid "Every Day"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:350
+msgid "Every Week"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:350
+msgid "Every Month"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:380
+msgid "Ticket Option"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:388
+msgid "Title"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:397
+msgid "Url"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:406 ../include/meta-boxes/event_meta.php:
+#: 414 ../include/meta-boxes/event_meta.php:417
+msgid "Event Ticket Price"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:423
+msgid "Add Prices Shortcode"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:432
+msgid "Status"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:440
+msgid "Event Status"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:449
+msgid "Color"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:460
+msgid "Event Organizer"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:469 ../include/post-types/events.php:24
+msgid "Organizer"
+msgstr ""
+
+#: ../include/meta-boxes/event_meta.php:480
+msgid "Repeat Access"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:260
+msgid "Full Width"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:269
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:278
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:515 ../include/meta-
+#: boxes/form_meta_fields.php:866
+msgid "Browse"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:710
+msgid "Add Gallery"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:749
+msgid "Delete image"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:749
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: ../include/meta-boxes/form_meta_fields.php:760 ../include/meta-
+#: boxes/form_meta_fields.php:760
+msgid "Delete"
+msgstr ""
+
+#: ../include/post-types/events.php:23 ../include/post-types/events.php:141
+msgid "Categories"
+msgstr ""
+
+#: ../include/post-types/events.php:25
+msgid "Start Date"
+msgstr ""
+
+#: ../include/post-types/events.php:26
+msgid "End Date"
+msgstr ""
+
+#: ../include/post-types/events.php:27
+msgid "Timing"
+msgstr ""
+
+#: ../include/post-types/events.php:76 ../templates/events/event-featured.php:71
+msgid "All day"
+msgstr ""
+
+#: ../include/post-types/events.php:95 ../include/post-types/events.php:96
+msgid "Events"
+msgstr ""
+
+#: ../include/post-types/events.php:97 ../include/post-types/events.php:100
+msgid "Add New Event"
+msgstr ""
+
+#: ../include/post-types/events.php:98
+msgid "Edit Event"
+msgstr ""
+
+#: ../include/post-types/events.php:99
+msgid "New Event Item"
+msgstr ""
+
+#: ../include/post-types/events.php:101
+msgid "View Event Item"
+msgstr ""
+
+#: ../include/post-types/events.php:102
+msgid "Search Event"
+msgstr ""
+
+#: ../include/post-types/events.php:103
+msgid "Nothing found"
+msgstr ""
+
+#: ../include/post-types/events.php:104
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../include/post-types/events.php:136
+msgid "Event Categories"
+msgstr ""
+
+#: ../include/post-types/events.php:137
+msgid "Search Event Categories"
+msgstr ""
+
+#: ../include/post-types/events.php:138
+msgid "Edit Event Category"
+msgstr ""
+
+#: ../include/post-types/events.php:139
+msgid "Update Event Category"
+msgstr ""
+
+#: ../include/post-types/events.php:140
+msgid "Add New Category"
+msgstr ""
+
+#: ../include/post-types/events.php:160
+msgid "Event Tags"
+msgstr ""
+
+#: ../include/post-types/events.php:161
+msgid "event-tag"
+msgstr ""
+
+#: ../include/post-types/events.php:162
+msgid "Search Tags"
+msgstr ""
+
+#: ../include/post-types/events.php:163
+msgid "Popular Tags"
+msgstr ""
+
+#: ../include/post-types/events.php:164
+msgid "All Tags"
+msgstr ""
+
+#: ../include/post-types/events.php:167
+msgid "Edit Tag"
+msgstr ""
+
+#: ../include/post-types/events.php:168
+msgid "Update Tag"
+msgstr ""
+
+#: ../include/post-types/events.php:169
+msgid "Add New Tag"
+msgstr ""
+
+#: ../include/post-types/events.php:170
+msgid "New Tag Name"
+msgstr ""
+
+#: ../include/post-types/events.php:171
+msgid "Separate tags with commas"
+msgstr ""
+
+#: ../include/post-types/events.php:172
+msgid "Add or remove tags"
+msgstr ""
+
+#: ../include/post-types/events.php:173
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: ../templates/events/event-fancy.php:64 ../templates/events/event-list.php:107 .
+#: ./templates/events/event-simple.php:93 ../templates/events/single-events.php:113
+msgid "-"
+msgstr ""
+
+#: ../templates/events/event-featured.php:54 ../templates/events/single-events.
+#: php:126
+msgid "by"
+msgstr ""
+
+#: ../templates/events/event-list.php:125
+msgid "See map"
+msgstr ""
+
+#: ../templates/events/event-list.php:129
+msgid "Get Tickets"
+msgstr ""
+
+#: ../templates/events/event_element.php:50
+msgid "Edit Events Options"
+msgstr ""
+
+#: ../templates/events/event_element.php:57
+msgid "Section Title"
+msgstr ""
+
+#: ../templates/events/event_element.php:64
+msgid "Events Design Views"
+msgstr ""
+
+#: ../templates/events/event_element.php:70
+msgid "Events Simple"
+msgstr ""
+
+#: ../templates/events/event_element.php:71
+msgid "Events Listing"
+msgstr ""
+
+#: ../templates/events/event_element.php:72
+msgid "Events Fancy"
+msgstr ""
+
+#: ../templates/events/event_element.php:73
+msgid "Events Featured"
+msgstr ""
+
+#: ../templates/events/event_element.php:78 ../templates/events/event_element.php:
+#: 113
+msgid ""
+"Please select category to show posts. If you dont select category it will "
+"display all posts"
+msgstr ""
+
+#: ../templates/events/event_element.php:84
+msgid "Events Listing Types"
+msgstr ""
+
+#: ../templates/events/event_element.php:90
+msgid "All Events"
+msgstr ""
+
+#: ../templates/events/event_element.php:91
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../templates/events/event_element.php:92
+msgid "Past Events"
+msgstr ""
+
+#: ../templates/events/event_element.php:101
+msgid "Choose Category"
+msgstr ""
+
+#: ../templates/events/event_element.php:107
+msgid "--Select Category--"
+msgstr ""
+
+#: ../templates/events/event_element.php:119
+msgid "Post Order"
+msgstr ""
+
+#: ../templates/events/event_element.php:125
+msgid "ASC"
+msgstr ""
+
+#: ../templates/events/event_element.php:126
+msgid "DESC"
+msgstr ""
+
+#: ../templates/events/event_element.php:135
+msgid "Show Time"
+msgstr ""
+
+#: ../templates/events/event_element.php:141 ../templates/events/event_element.
+#: php:180
+msgid "Yes"
+msgstr ""
+
+#: ../templates/events/event_element.php:142 ../templates/events/event_element.
+#: php:181
+msgid "No"
+msgstr ""
+
+#: ../templates/events/event_element.php:150
+msgid "Length of Excerpt"
+msgstr ""
+
+#: ../templates/events/event_element.php:157
+msgid ""
+"Enter number of character for short description text, excerpt length will "
+"work only in list view."
+msgstr ""
+
+#: ../templates/events/event_element.php:163
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: ../templates/events/event_element.php:170
+msgid "To display all the records, leave this field blank"
+msgstr ""
+
+#: ../templates/events/event_element.php:176
+msgid "Filterable"
+msgstr ""
+
+#: ../templates/events/event_element.php:188
+msgid "Insert"
+msgstr ""
+
+#: ../templates/events/event_element.php:196
+msgid "Save"
+msgstr ""
+
+#: ../templates/events/event_functions.php:278
+msgid "Sort by"
+msgstr ""
+
+#: ../templates/events/single-events.php:165
+msgid "Share"
+msgstr ""

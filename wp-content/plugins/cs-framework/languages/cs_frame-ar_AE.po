@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CS Framework v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-19 06:35:52+0000\n"
+"Last-Translator: admin <dum1@chimpgroup.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: U.A.E.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: include/meta-boxes/form_meta_fields.php:247
+#@ cs_frame
+msgid "Full Width"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:256
+#@ cs_frame
+msgid "Sidebar Right"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:265
+#@ cs_frame
+msgid "Sidebar Left"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:519
+#: include/meta-boxes/form_meta_fields.php:869
+#@ cs_frame
+msgid "Browse"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:714
+#@ cs_frame
+msgid "Add Gallery"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:753
+#@ cs_frame
+msgid "Delete image"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:753
+#@ cs_frame
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: include/meta-boxes/form_meta_fields.php:764
+#@ cs_frame
+msgid "Delete"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:16
+#: include/meta-boxes/portfolio_meta.php:49
+#@ cs_frame
+msgid "Portfolio Options"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:33
+#@ cs_frame
+msgid "General"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:37
+#: include/meta-boxes/team_meta.php:35
+#@ cs_frame
+msgid "Sub Header"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:42
+#: include/meta-boxes/team_meta.php:40
+#@ cs_frame
+msgid "Header Absolute"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:45
+#: include/meta-boxes/team_meta.php:43
+#@ cs_frame
+msgid "Seo Options"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:96
+#@ cs_frame
+msgid "Social Sharing"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:138
+#@ cs_frame
+msgid "Detail Style"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:144
+#@ cs_frame
+msgid "Style 1"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:144
+#@ cs_frame
+msgid "Style 2"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:144
+#@ cs_frame
+msgid "Style 3"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:149
+#@ cs_frame
+msgid "Portfolio Date"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:158
+#@ cs_frame
+msgid "Portfolio Client"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:167
+#@ cs_frame
+msgid "Portfolio Location"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:176
+#: include/meta-boxes/portfolio_meta.php:181
+#@ cs_frame
+msgid "Other Projects"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:187
+#@ cs_frame
+msgid "Projects Background Image"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:198
+#@ cs_frame
+msgid "Side Banner"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:210
+#@ cs_frame
+msgid "Bottom Banner"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:221
+#@ cs_frame
+msgid "Team"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:229
+#@ cs_frame
+msgid "Portfolio Team"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:240
+#: include/meta-boxes/portfolio_meta.php:248
+#@ cs_frame
+msgid "Specifications"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:253
+#@ cs_frame
+msgid "Project Specification"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:259
+#: include/meta-boxes/team_meta.php:184
+#: include/meta-boxes/team_meta.php:221
+#: templates/portfolios/portfolio_element.php:131
+#@ cs_frame
+msgid "Description"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:268
+#: include/meta-boxes/team_meta.php:193
+#: include/meta-boxes/team_meta.php:230
+#@ cs_frame
+msgid "List"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:272
+#@ cs_frame
+msgid "Press enter after entering a list item."
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:277
+#: include/meta-boxes/portfolio_meta.php:285
+#: include/meta-boxes/portfolio_meta.php:290
+#@ cs_frame
+msgid "Gallery"
+msgstr ""
+
+#: include/meta-boxes/portfolio_meta.php:296
+#: include/meta-boxes/team_meta.php:259
+#@ cs_frame
+msgid "Add Gallery Images"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:16
+#: include/meta-boxes/team_meta.php:47
+#@ cs_frame
+msgid "Team Options"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:93
+#@ cs_frame
+msgid "Position"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:102
+#@ cs_frame
+msgid "Phone"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:111
+#@ cs_frame
+msgid "Email"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:120
+#@ cs_frame
+msgid "Facebook"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:129
+#@ cs_frame
+msgid "Twitter"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:138
+#@ cs_frame
+msgid "Google Plus"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:147
+#@ cs_frame
+msgid "Linkedin"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:156
+#: include/meta-boxes/team_meta.php:164
+#@ cs_frame
+msgid "Job Specifications"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:169
+#@ cs_frame
+msgid "Job Specification"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:175
+#@ cs_frame
+msgid "Sub Title"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:197
+#: include/meta-boxes/team_meta.php:234
+#@ cs_frame
+msgid "Press enter after entering a list item"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:202
+#: include/meta-boxes/team_meta.php:210
+#: include/meta-boxes/team_meta.php:215
+#@ cs_frame
+msgid "Experience and Expertise"
+msgstr ""
+
+#: include/meta-boxes/team_meta.php:240
+#: include/meta-boxes/team_meta.php:248
+#: include/meta-boxes/team_meta.php:253
+#@ cs_frame
+msgid "Partners"
+msgstr ""
+
+#: include/post-types/portfolios.php:22
+#: include/post-types/portfolios.php:97
+#: templates/portfolios/portfolio_functions.php:283
+#@ cs_frame
+msgid "Categories"
+msgstr ""
+
+#: include/post-types/portfolios.php:53
+#: include/post-types/portfolios.php:54
+#@ cs_frame
+msgid "Portfolios"
+msgstr ""
+
+#: include/post-types/portfolios.php:55
+#: include/post-types/portfolios.php:58
+#@ cs_frame
+msgid "Add New Portfolio"
+msgstr ""
+
+#: include/post-types/portfolios.php:56
+#@ cs_frame
+msgid "Edit Portfolio"
+msgstr ""
+
+#: include/post-types/portfolios.php:57
+#@ cs_frame
+msgid "New Portfolio Item"
+msgstr ""
+
+#: include/post-types/portfolios.php:59
+#@ cs_frame
+msgid "View Portfolio Item"
+msgstr ""
+
+#: include/post-types/portfolios.php:60
+#@ cs_frame
+msgid "Search Portfolio"
+msgstr ""
+
+#: include/post-types/portfolios.php:61
+#: include/post-types/teams.php:47
+#@ cs_frame
+msgid "Nothing found"
+msgstr ""
+
+#: include/post-types/portfolios.php:62
+#: include/post-types/teams.php:48
+#@ cs_frame
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/post-types/portfolios.php:92
+#@ cs_frame
+msgid "Portfolio Categories"
+msgstr ""
+
+#: include/post-types/portfolios.php:93
+#@ cs_frame
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: include/post-types/portfolios.php:94
+#@ cs_frame
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: include/post-types/portfolios.php:95
+#@ cs_frame
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: include/post-types/portfolios.php:96
+#@ cs_frame
+msgid "Add New Category"
+msgstr ""
+
+#: include/post-types/teams.php:39
+#: include/post-types/teams.php:40
+#@ cs_frame
+msgid "Teams"
+msgstr ""
+
+#: include/post-types/teams.php:41
+#: include/post-types/teams.php:44
+#@ cs_frame
+msgid "Add New Team"
+msgstr ""
+
+#: include/post-types/teams.php:42
+#@ cs_frame
+msgid "Edit Team"
+msgstr ""
+
+#: include/post-types/teams.php:43
+#@ cs_frame
+msgid "New Team Item"
+msgstr ""
+
+#: include/post-types/teams.php:45
+#@ cs_frame
+msgid "View Team Item"
+msgstr ""
+
+#: include/post-types/teams.php:46
+#@ cs_frame
+msgid "Search Team"
+msgstr ""
+
+#: templates/portfolios/portfolio-grid.php:62
+#: templates/portfolios/portfolio-masonry.php:54
+#: templates/portfolios/portfolio-medium.php:89
+#: templates/portfolios/portfolio-modren.php:60
+#: templates/portfolios/portfolio-plain.php:63
+#@ cs_frame
+msgid "No Portfolio found."
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:52
+#@ cs_frame
+msgid "Edit Portfolio Options"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:60
+#: templates/teams/team_element.php:60
+#@ cs_frame
+msgid "Section Title"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:68
+#@ cs_frame
+msgid "Choose Category"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:74
+#@ cs_frame
+msgid "-- Select Category --"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:83
+#@ cs_frame
+msgid "Views"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:89
+#@ cs_frame
+msgid "Portfolio Grid"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:90
+#@ cs_frame
+msgid "Portfolio Plain"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:91
+#@ cs_frame
+msgid "Portfolio Modern"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:92
+#@ cs_frame
+msgid "Portfolio Medium"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:93
+#@ cs_frame
+msgid "Portfolio Masonry"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:101
+#@ cs_frame
+msgid "Filter"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:107
+#: templates/portfolios/portfolio_element.php:137
+#: templates/teams/team_element.php:89
+#@ cs_frame
+msgid "Yes"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:108
+#: templates/portfolios/portfolio_element.php:138
+#: templates/teams/team_element.php:90
+#@ cs_frame
+msgid "No"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:116
+#: templates/teams/team_element.php:68
+#@ cs_frame
+msgid "Post Order"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:122
+#: templates/teams/team_element.php:74
+#@ cs_frame
+msgid "Asc"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:123
+#: templates/teams/team_element.php:75
+#@ cs_frame
+msgid "DESC"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:147
+#: templates/teams/team_element.php:99
+#@ cs_frame
+msgid "Length of Excerpt"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:154
+#: templates/teams/team_element.php:106
+#@ cs_frame
+msgid "Enter number of character for short description text."
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:161
+#: templates/teams/team_element.php:113
+#@ cs_frame
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:168
+#: templates/teams/team_element.php:120
+#@ cs_frame
+msgid "To display all the records, leave this field blank."
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:174
+#: templates/teams/team_element.php:126
+#@ cs_frame
+msgid "Pagination"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:178
+#: templates/teams/team_element.php:130
+#@ cs_frame
+msgid "Show Pagination"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:179
+#: templates/teams/team_element.php:131
+#@ cs_frame
+msgid "Single Page"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:186
+#: templates/teams/team_element.php:138
+#@ cs_frame
+msgid "Insert"
+msgstr ""
+
+#: templates/portfolios/portfolio_element.php:194
+#: templates/teams/team_element.php:146
+#@ cs_frame
+msgid "Save"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:163
+#@ cs_frame
+msgid "List All"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:217
+#@ cs_frame
+msgid "Loading"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:265
+#@ cs_frame
+msgid "Project Detail"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:269
+#@ cs_frame
+msgid "Project Date"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:274
+#@ cs_frame
+msgid "Client"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:293
+#@ cs_frame
+msgid "Project team"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:303
+#@ cs_frame
+msgid "Location"
+msgstr ""
+
+#: templates/portfolios/portfolio_functions.php:313
+#@ cs_frame
+msgid "Share Project"
+msgstr ""
+
+#: templates/portfolios/single-portfolio.php:132
+#@ cs_frame
+msgid "Project Description"
+msgstr ""
+
+#: templates/teams/single-team.php:64
+#: templates/teams/team-grid.php:42
+#@ cs_frame
+msgid "Send Email"
+msgstr ""
+
+#: templates/teams/team-grid.php:63
+#@ cs_frame
+msgid "No team found."
+msgstr ""
+
+#: templates/teams/team_element.php:52
+#@ cs_frame
+msgid "Edit Team Options"
+msgstr ""
+
+#: templates/teams/team_element.php:83
+#@ cs_frame
+msgid "Post Description"
+msgstr ""
+

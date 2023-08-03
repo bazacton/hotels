@@ -1,0 +1,305 @@
+body, .rtl .widget, .rtl .flexslider2 .slides article {	direction: rtl;}
+.rtl .flexslider, .rtl .owl-carousel, .rtl .page-sidebar, .rtl .testimonial-slider {direction: ltr !important;}
+/*============  FLOAT SECTION STYLE ============ */
+ .rtl .left-side, .rtl .left-side p, .rtl .left-side p i, .rtl #main-header .logo, .rtl .head-title, .rtl .cs-reservation li, .rtl .navigation, .rtl .navigation ul li, .rtl .navigation ul > li > a i,
+ .rtl .reservation-search.reservation-form .form-reviews .review-style li, .rtl .reservation-form .form-reviews label, .rtl .date-time, .rtl .events-timeline .post-options,
+ .rtl .page-section .post-options li, .cs-events .post-options li i, .accomodation-rating, .user-signup form label, .question-mark,
+ .rtl .cs-author figure, .rtl .footer-logo, .rtl .widget_text ul li i, .rtl .widget_form ul li input[type="submit"], .rtl #copyright .social-media ul li, .rtl .cs-events span.free,
+ .rtl .cs-events time, .rtl .cs-events .post-options, .rtl .pagination li.pgnext .icon > img, .rtl .widget_recent ul li figure, .rtl .widget_tag_cloud .cs-tags ul li,
+ .rtl .cs-events.events-listing section>figure, .rtl .post-options li, .rtl .cs-tags ul li, .rtl .cs-tags , .rtl .detail-post .socialmedia, .rtl .cs-tags i, .rtl .cs-price-table .features ul li i,
+ .rtl .cs-blog .post-options, .rtl .cs-blog .post-options li i, .rtl .cs-blog ul li, .rtl .blog-medium .cs-media, .rtl .blog-detail .post-options li i, .rtl .rich_editor_text ul li,
+ .rtl .prev-next-post article.prev .left-arrow, .rtl .prev-next-post article.next .right-arrow, .rtl .thumblist header, .rtl .thumblist figure, .thumblist span, .rtl #respond form p.form-submit span,
+ .rtl .cs-accomodation.classicview article figure, .rtl .classicview .short-info, .rtl .cslist-info li i, .rtl .cs-accomodation figure, .rtl .plain-info, .rtl .info-toggle i, .rtl .cs-accomodation .cs-infolist ul li a i, .rtl .accomodation-tabs .nav, .rtl .accomodation-tabs .tab-content, 
+ .rtl .cs-reviews ul li figure, .rtl .cs-reviews ul li .review-date, .rtl .cs-reviews ul li .reviews-description p, .rtl .cs-reviews ul li .reviews-description .rating-section, .rtl .cs-reviews ul li .reviews-description, .rtl #respond form p input[type="submit"], 
+ .rtl .page-not-found figure img, .rtl .cs-content404, .rtl .page-not-found .cs-search-area > form, .rtl .cs-default .panel-title a span, .rtl .panel-group.simple .panel-title a i, .rtl .twitter_widget article span i, .rtl .widget_gallery .gallery-list li,
+ .rtl .cs-list .cs-linked-list li a i, .skillbar, .rtl .suggestions ul li a i, .rtl .page-no-search .cs-search-area form, .rtl .user-signup form label, .rtl .widget_categories ul li a, .rtl .blog-detail .cs-tags i,
+ .rtl .cs-events .post-options li i, .rtl .skillbar, .rtl .events-listing .date-time, .rtl .widget_tag_cloud .tagcloud a, .rtl .widget_tag_cloud .cs-tags ul li a, .rtl .skills-sec .rtl .rich_editor_text .blog-text ul.post-options li, .rtl .pp_social .twitter, .rtl .pp_social .facebook,
+ .rtl .accomodation-tabs.vertical .nav, .rtl .event-editor.cs-events time, .rtl .footer-nav ul li, .rtl .rich_editor_text .blog-text ul.post-options li, .rtl .widget_newsletter form label, .rtl .page-sidebar, .rtl .search-summery span, .rtl .select-heading h2, .rtl .select-heading .select-number,
+ .rtl .cs-accomodation.plainview article figure, .rtl .accomodation-rating, .rtl .cs-accomodation.fancy-view .cslist-info li, .rtl .cs-accomodation.fancy-view .cs-price, .rtl .widget-section-title, .rtl .breadcrumb-sec .breadcrumbs ul li, .rtl .breadcrumb-sec .breadcrumbs ul li a, .rtl .breadcrumb-sec .breadcrumbs ul li i,
+ .rtl .widget-reviews, .rtl .cs-section-title, .rtl .blog-editor .cslist-info li, .rtl .cslist-info li img, .rtl .rating-list li, .rtl .location-list > li,
+ .rtl .banner-search.reservation-form, .rtl .cs-partner ul li, .rtl .panel-group.cs-default.simple .panel-heading a i, .rtl #respond p [type="text"], .rtl .comment-respond, .rtl #respond form p, .rtl #respond form, .rtl .detail-post .socialmedia h5, .rtl .info-toggle,
+ .rtl .cs-services, .rtl .cs-accomodation .cs-infolist ul li a img, .rtl .cs-accomodation .cs-infolist ul li a i, .rtl .page-content {
+	float: right;
+}
+.rtl .right-side, .rtl #lang_sel a.lang_sel_sel:before, .rtl #lang_sel img.iclflag, .rtl .right-side, .rtl .cs-reservation, .rtl .booking-btn i, .rtl #copyright .social-media, .rtl .pagination li.pgprev .icon > img,
+.rtl .cs-accomodation.plainview article .short-info, .rtl .main-section .cs-classic-form #respond form p span ~ input[type="submit"], .rtl .user-signup form .submit-button[type="submit"],
+.rtl .cs-services.right .cs-multiple-list .cs-iconlist li i, .rtl .cs-services.right .liststyle .cs-iconlist li i, .rtl .user-signup form input[type="submit"],
+.rtl .widget_newsletter input[type="submit"], .rtl .page-sidebar ~ .page-content, .rtl .undo-search a, .rtl .search-summery li span, .rtl .select-heading .select-info, .rtl .blog-editor .detail-head h6,
+.rtl #respond p ~ p.comment-form-comment label, .rtl .cs-services.right figure, .rtl .page-content ~ .page-sidebar, .rtl .cs-services.right figure {
+	float: left;
+}
+/*============  Text Right ============ */
+.rtl .cs-services.classic figure ~ .text, .rtl .cs-accomodation.modrenview .accomodation-info, .rtl .cs-newsletter, .rtl .page-section .question-mark, .rtl .cs-services.classic.left, .rtl .cs-services.left, .rtl .faq-holder #respond form p.form-submit span,
+.rtl .promo-box.left, .rtl th, .rtl .search-summery li, .rtl .cs-partner.heading-style-1 .cs-section-title, .rtl .left, .rtl .cs-accomodation .cs-infolist ul li a {
+	text-align: right;
+}
+/*============  Text Left ============ */
+.rtl .headerinfo .cs-reservation li small, .rtl .right, .rtl .cs-accomodation.plainview h5, .rtl .blog-editor .cslist-info li, .rtl .cs-reviews ul li .review-date time {
+	text-align: left;
+}
+ .rtl .cs-price-table.pr-classic .features ul li, .rtl .head-title {
+	text-align: center;
+}
+.rtl .events-grid .alighn-center .post-options, .rtl .events-grid .alighn-center .post-options li, .rtl .events-grid .alighn-center time, .rtl .main-section .cs-events span.free{
+	float: none;
+}
+.rtl .cs-widget-contact ul li{clear: right;}
+/*============  Header Style ============ */
+.rtl #main-header .left-side p i {margin: 5px 0 0 6px;}
+.rtl #main-header .logo {margin: 30px -13px -60px 0;}
+.rtl .headerinfo .cs-reservation li:last-child {padding: 0 15px 0 0;}
+.rtl .headerinfo .cs-reservation li:before {right: -1px; left: auto;}
+.rtl .headerinfo .cs-reservation li span i {float: left; margin: 8px 5px 0 0;}
+.rtl #main-header .navigation ul > li > a i {margin: 2px 0 0 7px;}
+.rtl #main-header .navigation ul > li > a:before {right: 0; left: auto;}
+.rtl #main-header .navigation ul > li:first-child > a:before{display: none;}
+.rtl #main-header .sub-dropdown:before {right: 22px; left: auto;}
+.rtl #main-header .sub-dropdown {left: auto; right: 0;}
+.rtl #main-header ul ul .sub-dropdown {right: 100%;}
+.rtl .cs-services.modren figure figcaption span {margin: -10px 0 0 -25px; left: 50%;}
+/*============  Home Style ============ */
+.rtl .flexslider2 {direction: ltr;}
+.rtl .reservation-form .select-style:before, .rtl .reservation-form .select-style-foure:before,
+.rtl .reservation-search .form-reviews .review-style li .select-style-one:before {left: 0; right: auto;}
+.rtl .reservation-search.reservation-form .form-reviews .review-style li {padding:0 10px 0 0;}
+.rtl .reservation-form .form-reviews label:before {right: 0; left: auto;}
+.rtl .reservation-form .form-reviews label {padding: 0 0 0 10px;}
+.rtl .reservation-form .form-reviews .review-style .select-style-two:before, 
+.rtl .reservation-form .form-reviews .review-style .select-style-three:before {right: auto; left:0;}
+.rtl .cs-section-title h2 {padding: 0 19px 0 0;}
+.rtl .events-timeline .date-time ~ section {padding: 0 67px 0 0;}
+.rtl .post-options li {margin: 0 0 0 25px;}
+.rtl .cs-events .post-options li i {margin: 2px 0 0 10px;}
+.rtl .prev-next .flex-direction-nav {left: 0; right: auto;}
+.rtl .prev-next .flex-direction-nav .flex-prev {right: -56px; left: auto; transform: scale(-1); -moz-transform: scale(-1); -ms-transform: scale(-1); -o-transform: scale(-1);-webkit- transform: scale(-1);}
+.rtl .prev-next .flex-direction-nav .flex-next {left: 0; right: auto; transform: scale(-1); -moz-transform: scale(-1); -ms-transform: scale(-1); -o-transform: scale(-1);-webkit- transform: scale(-1);}
+.rtl .prev-next .flex-direction-nav a {line-height: 22px;}
+.rtl .widget .cs-services:before,
+.rtl .cs-services.classic:before {right: 3px; left: auto;}
+.rtl .cs-services.classic.left figure ~ .text {padding: 0 20px 0 0;}
+.rtl .cs-prv-next .owl-controls {right: auto; left: 0;}
+.rtl .cs-accomodation .cs-infolist {left: 18px; right: auto;}
+.rtl .cs-accomodation figure figcaption:before {border-left: 263px solid #ffffff; border-right: none;}
+.rtl .accomodation-rating {margin: 0 0 0 12px;}
+.rtl .booking-btn i {margin: 7px 12px 0 0;}
+.rtl .user-signup form label {margin: 0 0 0 9px;}
+.rtl .user-signup form label.submit-button {margin: 0;}
+.rtl .user-signup form .submit-button:before {left: -15px; right: auto; border-right: 15px solid #b59759; border-left: none;}
+.rtl .cs-Testimonials.v2 .question-mark:before,
+.rtl .question-mark:before {right: 50px; left: auto; border-right: 4px double #e5e5e5; border-left: none;}
+.rtl .question-mark {padding: 0 85px 0 0;}
+.rtl .cs-author figure {margin:0 0 0 18px;}
+.rtl .cs-Testimonials.v2:after,
+.rtl .cs-Testimonials:after {right: 1px; left: auto; transform: scale(-1); -moz-transform: scale(-1); -ms-transform: scale(-1); -o-transform: scale(-1); -webkit-transform: scale(-1); background-size: 49px 49px !important; width: 49px; height:49px;}
+.rtl .cs-partner .cs-section-title h2:before, .rtl .cs-partner .cs-section-title h2:after {right: 100%; left: auto; margin: 0 20px 0 0;}
+.rtl .cs-partner .cs-section-title h2:after {left: 100%; right: auto; margin: 0 0 0 20px;}
+.rtl .cs-iconlist li{ list-style: none; }
+.rtl .cs-iconlist li i{float: right; margin: 8px 0 0 8px; transform:scale(-1);}
+.rtl #footer-sec .widget-section-title h2:before {right: 0; left: auto;}
+.rtl #footer-sec .widget-section-title h2 {padding: 0 15px 0 0;}
+.rtl #footer-sec  .widget_text ul li i {padding: 5px 0 0;}
+.rtl #footer-sec .widget_text ul li p {padding: 0 25px 0 0;}
+.rtl #footer-sec  .widget_cetegorie ul li:after, .rtl #footer-sec .widget_categories ul li:after, .rtl #footer-sec .widget_pages ul li:after, 
+.rtl #footer-sec .widget_meta ul li:after, .rtl #footer-sec .widget_archive ul li:after, .rtl #footer-sec .widget_nav_menu ul li a:after {left: 9px; right: auto; transform: scale(-1); -moz-transform: scale(-1); -ms-transform: scale(-1); -o-transform: scale(-1); -webkit-transform: scale(-1);}
+.rtl #copyright [class*="col-md-"] {float: right;}
+.rtl #footer-sec #copyright .social-media {margin: 0 48px 0 0;}
+.rtl #footer-sec #copyright .social-media ul li {margin: 0 20px 0 0;}
+/*============  Event Style ============ */
+.rtl .cs-events span.free {margin: 0px 5px 0 0;}
+.rtl .events-grid time {margin: 2px 0 10px;}
+.rtl .pagination li a.active:before, .rtl .pagination li a.active:after {right: -3px; left: auto;}
+.rtl .pagination li a.active:after {right: 0; left: auto;}
+.rtl .pagination .icon > img { margin: 8px 2px 0 0;}
+.rtl .widget_cetegorie ul li:after, .rtl .widget_categories ul li:after, .rtl .widget_pages ul li:after, .rtl .widget_meta ul li:after, 
+.rtl .widget_archive ul li:after, .rtl .widget_nav_menu ul li a:after {left: 9px; right: auto; transform: scale(-1); -moz-transform: scale(-1); -ms-transform: scale(-1); -o-transform: scale(-1); -webkit-transform: scale(-1);}
+.rtl .widget-section-title h2:before {right: 0; left: auto;}
+.rtl .widget-section-title h2 {padding: 0 15px 0 0;}
+.rtl .widget_search .cs-search-area .search-submit {left: 1px; right: auto;}
+.rtl .widget_recent ul li figure ~ .text {padding: 0 74px 0 0;}
+/*.rtl .date-time ~ section {padding: 0 63px 0 0;}*/
+.cs-events .date-time ~ section{ padding: 0 20px 0 0; }
+.rtl .events-listing figure ~ .text {padding: 0 230px 0 0;}
+.rtl .cs-events.events-listing span.free {margin: 0 5px 0 0;}
+.rtl .cs-events.events-listing time {margin: 2px 0 0;}
+.rtl .events-listing .text p:before {right: 0; left: auto;}
+.rtl .widget_text ul li p {padding: 0 25px 0 0;}
+.rtl .event-editor .post-options li i {margin: 2px 0 0 5px;}
+.rtl .event-editor .post-options li {margin: 0 0 0 25px;}
+.rtl .event-editor.cs-events time {margin: 0 0 0 12px;}
+.rtl blockquote.cs-qoute {border-right: 3px solid #a4957e; border-left: none;}
+.rtl .textborder:before, .rtl .rich_editor_text p:first-child:before {margin: 12px 0 0 12px; float: right;}
+.rtl blockquote.cs-qoute:before {margin: 0 0 0 5px;}
+.rtl .event-editor .cs-tags ul li a {margin: 0 0 0 5px;}
+.rtl .cs-tags i ~ .tags-inn {padding: 0 69px 0 0;}
+.rtl .cs-section-title h2:before, .rtl .comment-reply-title:before {right: 0; left: auto;}
+.rtl .cs-section-title h2, .rtl .comment-reply-title {padding: 0 18px 0 0; text-align: right;}
+.rtl .cs-price-table .features ul li i {margin: 8px 0 0 8px; transform: scale(-1); -moz-transform: scale(-1); -ms-transform: scale(-1); -o-transform: scale(-1); -webkit-transform: scale(-1);}
+.rtl .cs-events .date-time ~ section{ padding: 0 20px 0 0 ;}
+/*============  Blog Style ============ */
+.rtl .blog-grid .date-time {margin: 0 0 0 22px;}
+.rtl .blog-grid .date-time ~ .blog-text {padding: 0 70px 0 0;}
+.rtl .cs-blog .post-options li i {margin: 0 0 0 9px; float: none; display: inline-block;}
+.rtl .pagination li.pgprev i {margin: 0 0 0 13px;}
+.rtl .pagination li.pgnext i {margin: 0 13px 0 0;}
+.rtl .blog-detail .blog-text {padding: 0 69px 0 0;}
+.rtl .blog-grid.blog-masnery article ul.post-options li {margin: 0 25px 0 0;}
+.rtl .blog-medium .date-time {margin:0 0 0 23px;}
+/*.rtl .blog-medium .cs-media ~ section {padding: 0 381px 0 0;}*/
+.rtl .widget_text .textwidget p i {display: inline-block;}
+.rtl .blog-detail .post-options li i {margin: 4px 0 0 5px;}
+.rtl .cs-attachments li:first-child {margin: 0 0 0 15px;}
+.rtl .prev-next-post article .text {padding: 0 70px 0 0;}
+.rtl .thumblist .text {padding: 0 258px 0 0;}
+.rtl .thumblist figure {margin: 0 0 10px 22px;}
+.rtl .thumblist .comment-reply-link:before {right: -12px; left: auto;}
+.rtl .thumblist .comment-reply-link {padding: 0 26px 0 0; margin-right: 5px; margin-left: 0;}
+.rtl #cs-comments ul li .children li .thumblist .text {padding: 0 224px 0 0;}
+.rtl #cs-comments ul li .children li .thumblist .comment-reply-link:before {right: -12px;}
+.rtl .cs-classic-form #respond form p span ~ input[type="submit"] {margin: 0 20px 0 0;}
+.rtl .blog-detail .cs-tags i ~ .tags-inn {padding: 0 69px 0 0;}
+.rtl .blog-medium .cs-media{ margin:0 0 10px 23px;}
+/*============  Accomodation Style ============ */
+.rtl .cs-accomodation.classicview article figure ~ .accomodation-info {padding: 0 30px 0 0;}
+.rtl .classicview .short-info {margin: 0 0 0 24px;}
+.rtl .cslist-info li i {margin: 7px 0 0 11px;}
+.rtl .reservation-form .form-reviews .review-style .select-style-one:before, .rtl .reservation-form .form-reviews .review-style .select-style-two:before, 
+.rtl .reservation-form .form-reviews .review-style .select-style-three:before, .rtl .reservation-form .select-style::before, .rtl .reservation-form .select-style-foure:before {left: 0; right: auto;}
+.rtl .reservation-form .form-reviews label.cs-calendar-combo {padding-right: 0; padding-left: 10px;}
+.rtl .cs-accomodation.plainview .col-md-12 {padding-left: 30px; padding-right: 15px;}
+.rtl .cs-accomodation.plainview article figure ~ .accomodation-info {padding: 0 25px 0 0;}
+.rtl .booking-btn i {margin: 3px 12px 0 0;}
+.rtl .info-toggle i {margin: 0 0 0 3px;}
+.rtl .cs-accomodation.gridview article figure ~ .accomodation-info {padding: 0 288px 0 0;}
+.rtl .cs-accomodation figure figcaption:before {border-left: 263px solid #ffffff; border-right: none;}
+.rtl .cs-accomodation .cs-infolist {left: 18px; right: auto;}
+.rtl .cs-accomodation .cs-infolist ul li a i {margin: 8px 0 0 12px;}
+.rtl .blog-editor .detail-head {padding: 0 0 0 45px; background-position: left 100%;}
+.rtl .blog-editor .detail-head:after {margin: 0 -42px 0 0; right: 0; left: auto;}
+.rtl .accomodation-tabs .nav li.active a:before {left: -5px; right: auto;}
+.rtl .accomodation-tabs .nav li.active a:after {right: -6px; left: auto;}
+.rtl .cs-reviews ul li .review-date {padding: 0 20px 0 0; text-align: left;}
+/*.rtl .cs-services.left figure ~ .text {padding: 0 130px 0 0;}*/
+.rtl .cs-multiple-list .cs-iconlist li i {margin: 0 0 0 12px; display: inline-block;}
+.rtl .page-section .cs-content404 {padding: 0 36px 0 0;}
+/*============  Pages Style ============ */
+.rtl .page-not-found .cs-search-area input.btn {left: 0; right: auto;}
+.rtl .page-not-found .cs-search-area label:before {left: 21px; right: auto;}
+.rtl .page-not-found .cs-search-area input {padding: 4px 16px 4px 6px;} 
+.rtl .cs-default .panel-title a span {margin: 0 0 0 8px;}
+.rtl .panel-group.simple .panel-title a i {margin: 9px 0 0 12px;}
+.rtl .widget_text.cs-contact-info li p {padding: 0 36px 0 0;}
+.rtl .twitter_widget article span i {margin: 8px 0 0 5px;}
+.rtl .panel-group.cs-default.simple .panel-heading a.collapsed:before, .rtl .panel-group.cs-default.simple .panel-heading a:before {left: 0; right: auto;}
+.rtl .faq-holder .cs-classic-form #respond form p input[type="submit"] {left: 0;}
+.rtl .faq-holder  #respond form .comment-form-comment ~ .form-submit {padding: 0 20px 0 0;}
+.rtl  .cs-list .cs-iconlist li:before, .rtl  .cs-default.cs-accordion-list .panel-heading a.collapsed:before, .rtl .cs-default.cs-accordion-list .panel-heading a:before {right: 0; left: auto;}
+.rtl .cs-default.cs-accordion-list .panel-heading a {padding: 0 20px 0 0;}
+.rtl .cs-default.cs-accordion-list ul{border-right: 1px solid #e8e8e8; border-left: none; padding: 0 14px 0 0;}
+.rtl .cs-list .cs-linked-list li a i {margin: 5px 0 0 10px;}
+.rtl .cs-list .cs-iconlist li {padding: 0 20px 0 0;}
+.rtl .widget_cs-services .cs-services.left figure ~ .text {padding: 0 20px 0 0;}
+.rtl .widget_nav_menu ul li a i {display: inline-block; margin: 0 0 0 6px;}
+.rtl .skillbar .skillbar-bar:after {left: -10px; right: auto; border-left: 11px solid transparent; border-right: none;}
+.rtl .skills-sec small {left: -10px; right: auto;}
+.rtl .cs-price-table.pr-classic:before {right: 0; left: auto; border-left: 30px solid transparent; border-right: none;}
+.rtl .accomodation-tabs .cs-list li i {margin: 0 0 0 12px;}
+.rtl #main-header .location-list > li i {display: inline-block; margin: 0 0 0 5px;}
+.rtl #main-header #lang_sel a.lang_sel_sel:before {margin: 1px 10px 0 0;}
+.rtl #main-header #lang_sel ul ul {right: -14px; left: auto;}
+.rtl .search-heading h2:before {right: 0; left: auto;}
+.rtl .search-heading h2 {padding: 0 15px 0 0;}
+.rtl .suggestions ul li a i {margin: 8px 0 0 5px;}
+.rtl .page-no-search .cs-search-area label {right: auto; left: 0;}
+.rtl .page-no-search .cs-search-area input[type="text"] {padding: 0 15px 0 0;}
+.rtl .site-maps-links ul li:before {right: 0; left: auto;}
+.rtl .site-maps-links ul li a {padding: 0 20px 0 0;}
+.rtl #main-header .navigation ul li:nth-child(2) a:before {right: 7px;}
+.rtl a.pp_close, .rtl a.pp_arrow_previous, .rtl a.pp_arrow_next, .rtl a.pp_previous, .rtl a.pp_next, .rtl div.light_square .pp_nav .pp_play {direction:ltr;}
+.rtl .widget_newsletter .cs-show-msg{right: auto !important; left:10px; border-left:none; border-right:6px solid #323536;}
+.rtl .cs-show-msg{right: auto !important; left:0; border-left:none; border-right:6px solid #323536;}
+.rtl .cs-Testimonials.v2 .question-mark {padding: 0 100px 0 0;}
+.rtl .pagination li a::before{left: -6px; right: auto;}
+.rtl .pagination li {margin-left: 11px; margin-right: 0;}
+.rtl div.pp_default .pp_content_container .pp_right {padding-right: 20px;}
+.rtl .cs-services.right figure ~ .text{padding: 0 0 0 124px;}
+.rtl .cs-services.right .cs-multiple-list .cs-iconlist li i, .rtl .cs-services.right .liststyle .cs-iconlist li i {margin:7px 12px 0 0;}
+.rtl .blog-detail .post-options li a:before {display: none;}
+.rtl .pp_social .facebook {margin-right: 5px; margin-left: 0;}
+.rtl .accomodation-tabs.vertical .tab-content {padding: 25px 30px 20px 60px;}
+.rtl .page-content ~ .page-sidebar:before, .rtl .page-content ~ .page-sidebar:after {left: -7px; right: auto;}
+.rtl .page-content ~ .page-sidebar {border: none;}
+.rtl .accomodation-tabs.vertical .nav li.active a:before {left: -5px; right: auto;}
+.rtl .panel-group.simple .panel-heading a  i {display: inline-block; margin: 0 0 0 8px;}
+.rtl .page-sidebar .cs-services.left figure, .rtl .page-sidebar .widget.widget_text img {width: auto;}
+.rtl .page-sidebar .cs-services.left figure ~ .text {padding: 0 20px 0 0;}
+.rtl .post-options li span {display: inline-block;}
+.rtl .post-options li a:before {right: -14px; left: auto;}
+.rtl .blog-grid.blog-masnery .post-options li:first-child {margin-right: 0;}
+.rtl .date-time:after {padding-left: 0;}
+.rtl .events-grid .right-event {float: none;}
+.rtl .page-content .blog-grid .post-options li {margin: 0 0 0 12px;}
+.rtl .widget_newsletter .submit-button:before {left: -14px; right: auto; border-right: 15px solid #b59759; border-left: none;}
+.rtl .widget_newsletter .cs-mailchimp fieldset > i {right: 8px; left: auto;}
+.rtl .widget_newsletter form label {margin-left: 9px; margin-right: 0;}
+.rtl .widget_newsletter input[type="text"] {padding: 0 20px 0 0;}
+.rtl .widget_newsletter .submit-button,
+.rtl .user-signup form .submit-button{ right: auto; left: 0; border-left:none;}
+.rtl .cs-services.left figure ~ .text{ padding: 0 20px 0 0;}
+.rtl .cs-events .post-options p{ float: right; }
+.rtl .cs-events .csmap{ direction: ltr; }
+.rtl .rooms-list li{padding: 18px 18px 18px 10px; border-left: 0 !important; border-right: 4px solid #b59759;}
+.rtl .select-heading .select-number{margin: 0 0 0 10px;}
+.rtl .select-heading h2{margin: 0 0 0 16px;}
+.rtl .cs-accomodation.fancy-view .cslist-info li a{margin: 0 5px 0 0;}
+.rtl .breadcrumb-sec .breadcrumbs ul li i{margin: 10px 0 0 4px;}
+.rtl .breadcrumb-sec .breadcrumbs ul li:before{right: -3px; left:auto;}
+.rtl .widget-reviews{margin: 0 0 0 20px;}
+.rtl .blog-editor .detail-head h6:after{left: auto; right: 100%; border-width:25px 0 0 6px; transform:scaleX(-1);}
+.rtl .rating-list .rating-title{float: left; margin: 0 0 0 10px;}
+.rtl .rating-list .rating-section{margin: -7px 0 5px 10px;}
+.rtl .left-side{margin: 0 0 0 13px;}
+.rtl .cs-calendar-combo input[type="text"]{padding-left: 30px;}
+.rtl .reservation-form .form-reviews .review-style select{text-align: left; padding: 8px 12px 8px 20px;}
+.rtl .box_spreater .dividerstyle i{transform:scale(-1); padding: 0 0 0 3px; line-height: 20px;}
+.rtl .reservation-form .form-reviews .select-style-two select{padding-left: 12px;}
+.rtl .main-section h2, .rtl .main-section h2 a{margin: 0 3px 8px 0;}
+.rtl .rating-section:after{display: block; clear: both; content: '';}
+.rtl .cs-partner ul li{border-right: 0; border-left: 1px solid #e5e5e5;}
+.rtl .cs-partner ul li:last-child{border:0;}
+.rtl .panel-group.cs-default.simple .panel-heading a i{margin: 4px 0 0 3px;}
+.rtl #respond form .comment-form-comment{right: auto; left: 0; float: left; padding: 0 20px 0 0;}
+.rtl .panel-group.cs-default.simple .panel-heading a{padding: 0 0 0 20px;}
+.rtl .cs-check-filter label:before{left:auto; right:0px;}
+.rtl .cs-check-filter ul li label{padding-left:0px; padding-right:20px;}
+.rtl .cs-check-filter ul li{margin:0 15px 0 0;}
+.rtl .cs-events span.free{margin:2px 5px 0 0; float:right;}
+.rtl .cs-events.events-listing span.free{margin:2px 5px 0 0;}
+.rtl .cs-check-filter label:before{margin-right:0px}
+.rtl .cs-contact-form #respond .comment-form-comment ~ .form-submit input[type="submit"]{margin: 0 20px 0 0; left: auto; right: 50%;}
+.rtl .detail-post .addthis_toolbox.addthis_default_style ul{display:inline-block;}
+.rtl .cslist-info li img{margin:2px 0px 2px 11px;}
+.rtl .plain-info{width:71%;}
+.rtl .booking-btn i {margin: 6px 12px 0 0;}
+.rtl .cs-accomodation.gridview figure{margin:0 0 20px 0;}
+.rtl .cslist-info li img{margin:2px 0px 2px 11px;}
+.rtl .accomodation-rating span, .rtl .accomodation-rating span, .rtl .accomodation-rating:before, .rtl .cs-rating:before, .rtl .rating-box:before{left:auto; right:0px; float:right;}
+.rtl .cs-accomodation .cs-infolist ul li a img, .rtl .cs-accomodation .cs-infolist ul li a i{margin:8px 0px 0px 12px;}
+.rtl .prev-next-post article.next .right-arrow i{transform: scale(-1);}
+.rtl .widget_categories ul li:hover{padding-left: 30px; padding-right: 10px;}
+.rtl .cs-accomodation .cs-infolist ul{right: auto; left: -20px;}
+.rtl .cs-accomodation .cs-infolist ul:before{right: auto; left: 20px;}
+.rtl .cs-accomodation .cs-price{left: auto; right: 0;}
+.rtl .user-signup form input[type="text"]{padding-right: 12px;}
+.rtl .widget_search .cs-search-area input[type="text"]{padding-right: 20px;}
+.rtl .cs-classic-form #respond form .form-submit input[type="submit"]{right: 50%; left: auto; margin: 0 20px 0 0;}
+.rtl .cs-services.left figure ~.text{padding: 0 20px 0 0px;}
+.rtl .cs-services.left figure{float: right;}
+.rtl .left { text-align: right;}
+.rtl .cs-iconlist i{float:right; margin:2px 0px 0 8px;}
+.rtl .cs-services.right figure{float:left;}
+.rtl .cs-services.right figure ~ .text{padding:0 0px 0 124px;}
+.rtl .right{ text-align: left;}
+.rtl .cs-services.right .liststyle .cs-iconlist li i{ float: left; margin: 7px 12px 0 0px;}
+
+
+

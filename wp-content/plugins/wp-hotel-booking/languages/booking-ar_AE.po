@@ -1,0 +1,2645 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Hotel Booking v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-26 08:06:20+0000\n"
+"Last-Translator: hotels-admin <dum1@chimpgroup.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: U.A.E.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: include/block_meta.php:19
+#: include/block_meta.php:33
+#@ booking
+msgid "Block Rooms"
+msgstr ""
+
+#: include/block_meta.php:38
+#: include/booking_meta.php:719
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#: include/reviews_meta.php:205
+#: include/reviews_meta.php:206
+#: include/rooms_capacity_meta.php:1
+#: rooms/rooms_element.php:91
+#: templates/room_search.php:45
+#: templates/room_search.php:110
+#: templates/room_search.php:281
+#: templates/templates_functions.php:784
+#: templates/templates_functions.php:1006
+#: templates/templates_functions.php:1030
+#@ booking
+msgid "Select Room"
+msgstr ""
+
+#: include/block_meta.php:75
+#: include/block_meta.php:127
+#@ booking
+msgid "Id"
+msgstr ""
+
+#: include/block_meta.php:76
+#: include/block_meta.php:128
+#@ booking
+msgid "Room Reference No"
+msgstr ""
+
+#: include/block_meta.php:77
+#: include/block_meta.php:129
+#@ booking
+msgid "Reason"
+msgstr ""
+
+#: include/block_meta.php:78
+#: include/block_meta.php:130
+#: include/hotels_meta.php:83
+#: include/hotels_meta.php:93
+#@ booking
+msgid "Action"
+msgstr ""
+
+#: include/block_meta.php:163
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "No Rooms Found."
+msgstr ""
+
+#: include/block_meta.php:186
+#@ booking
+msgid "Some error occur, please try again later."
+msgstr ""
+
+#: include/block_meta.php:201
+#@ booking
+msgid "Room is de-activated."
+msgstr ""
+
+#: include/block_meta.php:204
+#@ booking
+msgid "Room is activated."
+msgstr ""
+
+#: include/block_meta.php:217
+#: include/booking_meta.php:726
+#@ booking
+msgid "success"
+msgstr ""
+
+#: include/block_meta.php:222
+#: include/block_meta.php:228
+#: include/booking_meta.php:731
+#: include/reviews_meta.php:55
+#: include/reviews_meta.php:67
+#: include/reviews_meta.php:87
+#: include/reviews_meta.php:173
+#@ booking
+msgid "error"
+msgstr ""
+
+#: include/block_meta.php:223
+#: include/block_meta.php:229
+#: include/booking_meta.php:581
+#: include/booking_meta.php:1137
+#@ booking
+msgid "Some error occur, pleae try again later."
+msgstr ""
+
+#: include/booking_meta.php:9
+#@ booking
+msgid "Booking Options"
+msgstr ""
+
+#: include/booking_meta.php:109
+#: include/transactions_meta.php:1
+#: payments/gateways/class-bank-transfer.php:112
+#@ booking
+msgid "Booking Id"
+msgstr ""
+
+#: include/booking_meta.php:129
+#: include/rooms_meta.php:70
+#: include/rooms_meta.php:81
+#: rooms/single-rooms.php:368
+#: widgets/room_search.php:100
+#@ booking
+msgid "Select Hotel"
+msgstr ""
+
+#: include/booking_meta.php:141
+#: include/booking_meta.php:169
+#: include/booking_meta.php:190
+#: include/booking_meta.php:212
+#: include/booking_meta.php:222
+#: include/booking_meta.php:239
+#: include/booking_meta.php:258
+#: include/booking_meta.php:266
+#: include/booking_meta.php:273
+#: include/booking_meta.php:281
+#: include/booking_meta.php:288
+#: include/booking_meta.php:308
+#@ booking
+msgid "Wrapper"
+msgstr ""
+
+#: include/booking_meta.php:147
+#@ booking
+msgid "Check-in Date"
+msgstr ""
+
+#: include/booking_meta.php:158
+#@ booking
+msgid "Check-out Date"
+msgstr ""
+
+#: include/booking_meta.php:176
+#@ booking
+msgid "Total Days"
+msgstr ""
+
+#: include/booking_meta.php:200
+#: post-types/rooms.php:1
+#@ booking
+msgid "Rooms"
+msgstr ""
+
+#: include/booking_meta.php:229
+#@ booking
+msgid "Booking Detail"
+msgstr ""
+
+#: include/booking_meta.php:247
+#: include/booking_meta.php:250
+#: rooms/single-rooms.php:414
+#: templates/templates_functions.php:176
+#: widgets/room_search.php:161
+#@ booking
+msgid "Search Room"
+msgstr ""
+
+#: include/booking_meta.php:297
+#: include/booking_meta.php:1066
+#: settings/includes/plugin_options.php:183
+#: templates/templates_functions.php:1346
+#@ booking
+msgid "Extras"
+msgstr ""
+
+#: include/booking_meta.php:332
+#@ booking
+msgid "Guest Detail"
+msgstr ""
+
+#: include/booking_meta.php:342
+#: include/customers.php:1
+#@ booking
+msgid "Select a customer"
+msgstr ""
+
+#: include/booking_meta.php:357
+#@ booking
+msgid "Select Guest"
+msgstr ""
+
+#: include/booking_meta.php:378
+#@ booking
+msgid "Booking Status"
+msgstr ""
+
+#: include/booking_meta.php:387
+#@ booking
+msgid "Select Booking Status"
+msgstr ""
+
+#: include/booking_meta.php:392
+#: include/form_fields.php:1357
+#: include/transactions_meta.php:1
+#: settings/includes/plugin_options.php:655
+#@ booking
+msgid "Pending"
+msgstr ""
+
+#: include/booking_meta.php:392
+#@ booking
+msgid "Confirmed"
+msgstr ""
+
+#: include/booking_meta.php:416
+#@ booking
+msgid "Payment Detail"
+msgstr ""
+
+#: include/booking_meta.php:425
+#@ booking
+msgid "Gross Total"
+msgstr ""
+
+#: include/booking_meta.php:438
+#@ booking
+msgid "VAT"
+msgstr ""
+
+#: include/booking_meta.php:450
+#: payments/gateways/class-bank-transfer.php:117
+#: templates/confirmation.php:34
+#@ booking
+msgid "Grand Total"
+msgstr ""
+
+#: include/booking_meta.php:461
+#@ booking
+msgid "Advance Payment"
+msgstr ""
+
+#: include/booking_meta.php:472
+#@ booking
+msgid "Remaining"
+msgstr ""
+
+#: include/booking_meta.php:727
+#: include/booking_meta.php:1099
+#@ booking
+msgid "Room Found"
+msgstr ""
+
+#: include/booking_meta.php:732
+#@ booking
+msgid "No Rooms Found"
+msgstr ""
+
+#: include/booking_meta.php:985
+#: include/form_fields.php:1168
+#@ booking
+msgid "Price Breakdown"
+msgstr ""
+
+#: include/booking_meta.php:991
+#: include/form_fields.php:1174
+#: templates/templates_functions.php:498
+#@ booking
+msgid "+ Price Breakdwon"
+msgstr ""
+
+#: include/booking_meta.php:1086
+#: templates/templates_functions.php:578
+#@ booking
+msgid "No Room Found"
+msgstr ""
+
+#: include/booking_meta.php:1105
+#@ booking
+msgid "No Room Found."
+msgstr ""
+
+#: include/booking_meta.php:1360
+#@ booking
+msgid "Some error occur,please try again later."
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "Customers"
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "Saving customers..."
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "+ Add New Customers"
+msgstr ""
+
+#: include/customers.php:1
+#: include/form_fields.php:1382
+#: include/transactions_meta.php:1
+#@ booking
+msgid "First Name"
+msgstr ""
+
+#: include/customers.php:1
+#: include/form_fields.php:1392
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Last Name"
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "User"
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "Telephone"
+msgstr ""
+
+#: include/customers.php:1
+#: include/form_fields.php:1372
+#: include/hotels_meta.php:207
+#: include/hotels_meta.php:295
+#: include/transactions_meta.php:1
+#: settings/includes/plugin_options.php:315
+#@ booking
+msgid "Email"
+msgstr ""
+
+#: include/customers.php:1
+#: include/form_fields.php:1412
+#: include/transactions_meta.php:1
+#: templates/templates_functions.php:1443
+#@ booking
+msgid "Address"
+msgstr ""
+
+#: include/customers.php:1
+#: include/hotels_meta.php:177
+#: include/hotels_meta.php:265
+#: settings/includes/plugin_options.php:436
+#: templates/templates_functions.php:1435
+#@ booking
+msgid "City"
+msgstr ""
+
+#: include/customers.php:1
+#: include/hotels_meta.php:79
+#: include/hotels_meta.php:89
+#: include/hotels_meta.php:187
+#: include/hotels_meta.php:275
+#: settings/includes/plugin_options.php:450
+#: templates/templates_functions.php:1422
+#@ booking
+msgid "Country"
+msgstr ""
+
+#: include/customers.php:1
+#: settings/plugin_settings.php:60
+#: settings/plugin_settings.php:354
+#: settings/plugin_settings.php:549
+#@ booking
+msgid "Actions"
+msgstr ""
+
+#: include/customers.php:1
+#: include/hotels_meta.php:128
+#@ booking
+msgid "No records found."
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "Add Customer"
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "User Name"
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "Customer Id already exist."
+msgstr ""
+
+#: include/customers.php:1
+#@ booking
+msgid "Customer Added."
+msgstr ""
+
+#: include/customers.php:1
+#: include/hotels_meta.php:424
+#: include/hotels_meta.php:454
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Please fill all the fields."
+msgstr ""
+
+#: include/customers.php:1
+#: include/transactions_meta.php:1
+#@ booking
+msgid "All Customer Saved"
+msgstr ""
+
+#: include/form_fields.php:690
+#: include/form_fields.php:754
+#: include/reviews_meta.php:303
+#: settings/includes/plugin_options_fields.php:568
+#: settings/includes/plugin_options_fields.php:607
+#: settings/plugin_settings.php:876
+#@ booking
+msgid "Browse"
+msgstr ""
+
+#: include/form_fields.php:1201
+#: include/rooms_meta.php:102
+#@ booking
+msgid "File Attachments"
+msgstr ""
+
+#: include/form_fields.php:1230
+#@ booking
+msgid "Delete Attachment"
+msgstr ""
+
+#: include/form_fields.php:1230
+#: include/form_fields.php:1321
+#@ booking
+msgid "<i class=\"icon-times\"></i>"
+msgstr ""
+
+#: include/form_fields.php:1241
+#: include/form_fields.php:1332
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Delete"
+msgstr ""
+
+#: include/form_fields.php:1321
+#@ booking
+msgid "Delete image"
+msgstr ""
+
+#: include/form_fields.php:1364
+#@ booking
+msgid "Payment Method"
+msgstr ""
+
+#: include/form_fields.php:1368
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Status"
+msgstr ""
+
+#: include/form_fields.php:1402
+#@ booking
+msgid "Full Name"
+msgstr ""
+
+#: include/form_fields.php:1446
+#: templates/room_search.php:31
+#: widgets/room_search.php:123
+#@ booking
+msgid "No. of Rooms"
+msgstr ""
+
+#: include/form_fields.php:1458
+#@ booking
+msgid "Room 01"
+msgstr ""
+
+#: include/form_fields.php:1461
+#: rooms/single-rooms.php:392
+#: templates/templates_functions.php:141
+#: widgets/room_search.php:136
+#@ booking
+msgid "Adults"
+msgstr ""
+
+#: include/form_fields.php:1473
+#: rooms/single-rooms.php:403
+#: templates/templates_functions.php:159
+#: widgets/room_search.php:148
+#@ booking
+msgid "Children"
+msgstr ""
+
+#: include/hotels_meta.php:19
+#@ booking
+msgid "Hotels"
+msgstr ""
+
+#: include/hotels_meta.php:72
+#@ booking
+msgid "Manage Hotels"
+msgstr ""
+
+#: include/hotels_meta.php:73
+#@ booking
+msgid "+ Add New Hotel"
+msgstr ""
+
+#: include/hotels_meta.php:78
+#: include/hotels_meta.php:88
+#: include/hotels_meta.php:167
+#: include/hotels_meta.php:255
+#: settings/includes/plugin_options.php:422
+#@ booking
+msgid "Hotel Name"
+msgstr ""
+
+#: include/hotels_meta.php:80
+#: include/hotels_meta.php:90
+#: include/hotels_meta.php:221
+#: include/hotels_meta.php:309
+#: settings/includes/plugin_options.php:499
+#@ booking
+msgid "Booking Email"
+msgstr ""
+
+#: include/hotels_meta.php:81
+#: include/hotels_meta.php:91
+#: include/hotels_meta.php:211
+#: include/hotels_meta.php:299
+#: settings/includes/plugin_options.php:485
+#@ booking
+msgid "Stars"
+msgstr ""
+
+#: include/hotels_meta.php:82
+#: include/hotels_meta.php:92
+#: settings/includes/plugin_options.php:299
+#@ booking
+msgid "Phone"
+msgstr ""
+
+#: include/hotels_meta.php:157
+#@ booking
+msgid "Edit Hotel"
+msgstr ""
+
+#: include/hotels_meta.php:171
+#: include/hotels_meta.php:259
+#@ booking
+msgid "Street address"
+msgstr ""
+
+#: include/hotels_meta.php:181
+#: include/hotels_meta.php:269
+#: settings/includes/plugin_options.php:443
+#@ booking
+msgid "State"
+msgstr ""
+
+#: include/hotels_meta.php:191
+#: include/hotels_meta.php:279
+#: settings/includes/plugin_options.php:457
+#@ booking
+msgid "ZIP/Postal Code"
+msgstr ""
+
+#: include/hotels_meta.php:197
+#: include/hotels_meta.php:285
+#: settings/includes/plugin_options.php:464
+#@ booking
+msgid "Phone #"
+msgstr ""
+
+#: include/hotels_meta.php:201
+#@ booking
+msgid "FAX"
+msgstr ""
+
+#: include/hotels_meta.php:217
+#: include/hotels_meta.php:305
+#@ booking
+msgid "Map"
+msgstr ""
+
+#: include/hotels_meta.php:227
+#@ booking
+msgid "Update Hotel"
+msgstr ""
+
+#: include/hotels_meta.php:245
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "New Offer"
+msgstr ""
+
+#: include/hotels_meta.php:289
+#: settings/includes/plugin_options.php:307
+#: settings/includes/plugin_options.php:471
+#@ booking
+msgid "Fax"
+msgstr ""
+
+#: include/hotels_meta.php:315
+#@ booking
+msgid "Add Hotel"
+msgstr ""
+
+#: include/hotels_meta.php:380
+#@ booking
+msgid "Hotel already exist."
+msgstr ""
+
+#: include/hotels_meta.php:390
+#@ booking
+msgid "Hotel Updated."
+msgstr ""
+
+#: include/hotels_meta.php:419
+#@ booking
+msgid "Hotel Added."
+msgstr ""
+
+#: include/hotels_meta.php:450
+#@ booking
+msgid "Hotel Deleted."
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Price Settings"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Saving prices..."
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Rooms Pricing"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Price Plans"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Special Offers"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Add New Offer"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Offer Duration"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Name"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Discount (%)"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Require Days"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Save Offers"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Offer Name"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "All Rooms"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Starts From"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Valid Then"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Add Offer"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "All Prices Saved"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Monday"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Tuesday"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Wednesday"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Thursday"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Friday"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Saturday"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Sunday"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#, php-format
+#@ booking
+msgid "Adult %s"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#, php-format
+#@ booking
+msgid "Child %s"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Update"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#: settings/includes/plugin_options.php:291
+#: settings/includes/plugin_options.php:370
+#: settings/plugin_settings.php:59
+#: settings/plugin_settings.php:92
+#: settings/plugin_settings.php:95
+#: settings/plugin_settings.php:353
+#: settings/plugin_settings.php:383
+#: settings/plugin_settings.php:386
+#: settings/plugin_settings.php:548
+#: settings/plugin_settings.php:576
+#: settings/plugin_settings.php:579
+#: widgets/room_search.php:38
+#@ booking
+msgid "Title"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#, php-format
+#@ booking
+msgid "Add %s"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Edit Prices"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Add new Price Plan"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Save Prices"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#@ booking
+msgid "No Data Found"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "To"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Days"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Edit Offer"
+msgstr ""
+
+#: include/pricing_meta - Copy.php:1
+#: include/pricing_meta.php:1
+#@ booking
+msgid "Discount"
+msgstr ""
+
+#: include/reviews_meta.php:56
+#@ booking
+msgid "Please enter a Booking Id"
+msgstr ""
+
+#: include/reviews_meta.php:68
+#@ booking
+msgid "Please enter valid Booking Id."
+msgstr ""
+
+#: include/reviews_meta.php:110
+#: include/reviews_meta.php:161
+#@ booking
+msgid "pending"
+msgstr ""
+
+#: include/reviews_meta.php:111
+#@ booking
+msgid "You have Already Submit a Review."
+msgstr ""
+
+#: include/reviews_meta.php:162
+#@ booking
+msgid "Your Given Review will be Sent to Administrators. Once your Review has been Approved.Review Will be Posted publicly on the web"
+msgstr ""
+
+#: include/reviews_meta.php:165
+#@ booking
+msgid "Your Given Review has been Approved and Will be Posted publicly on the web"
+msgstr ""
+
+#: include/reviews_meta.php:174
+#@ booking
+msgid "Some error occur please try again later."
+msgstr ""
+
+#: include/reviews_meta.php:188
+#@ booking
+msgid "Reviews Options"
+msgstr ""
+
+#: include/reviews_meta.php:196
+#@ booking
+msgid "Select User"
+msgstr ""
+
+#: include/reviews_meta.php:197
+#@ booking
+msgid "Select The User."
+msgstr ""
+
+#: include/reviews_meta.php:242
+#@ booking
+msgid "Select The Rating"
+msgstr ""
+
+#: include/rooms_capacity_meta.php:1
+#@ booking
+msgid "Rooms Capacity Options"
+msgstr ""
+
+#: include/rooms_capacity_meta.php:1
+#@ booking
+msgid "Room Price"
+msgstr ""
+
+#: include/rooms_capacity_meta.php:1
+#@ booking
+msgid "Room Price will be applicable if room booking type will be set as per room from setting. Go here : Settings > General Settings > Booking Settings"
+msgstr ""
+
+#: include/rooms_capacity_meta.php:1
+#@ booking
+msgid "Rooms Prefix"
+msgstr ""
+
+#: include/rooms_capacity_meta.php:1
+#@ booking
+msgid "Number of Rooms"
+msgstr ""
+
+#: include/rooms_capacity_meta.php:1
+#@ booking
+msgid "Number of Adults"
+msgstr ""
+
+#: include/rooms_capacity_meta.php:1
+#@ booking
+msgid "Number of Children"
+msgstr ""
+
+#: include/rooms_meta.php:10
+#@ booking
+msgid "Rooms Options"
+msgstr ""
+
+#: include/rooms_meta.php:11
+#@ booking
+msgid "Room Gallery"
+msgstr ""
+
+#: include/rooms_meta.php:18
+#@ booking
+msgid "Add Room Gallery"
+msgstr ""
+
+#: include/rooms_meta.php:92
+#@ booking
+msgid "Starting Price"
+msgstr ""
+
+#: include/rooms_meta.php:112
+#@ booking
+msgid "Features List"
+msgstr ""
+
+#: include/rooms_meta.php:122
+#@ booking
+msgid "Add Tabs Shortcode"
+msgstr ""
+
+#: include/rooms_meta.php:133
+#@ booking
+msgid "Share Button"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Transactions"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Transaction Id already exist."
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Some error occur, please try again later"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Status Updated."
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Please status."
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "+ Add New Transaction"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Tansaction Id"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Customer"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Payment Type"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Amount"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Payment Date"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Approved"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Transaction Added."
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Select Payment Gateway"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Add Transaction"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Transaction Id"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Gross Amount"
+msgstr ""
+
+#: include/transactions_meta.php:1
+#@ booking
+msgid "Payment Gateway"
+msgstr ""
+
+#: payments/class-payments.php:31
+#: payments/class-payments.php:33
+#@ booking
+msgid "Select Currency"
+msgstr ""
+
+#: payments/class-payments.php:40
+#@ booking
+msgid "Currency Sign"
+msgstr ""
+
+#: payments/class-payments.php:42
+#@ booking
+msgid "Use Currency Sign eg: &pound;,&yen;"
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:23
+#: payments/gateways/class-authorize.net.php:53
+#: payments/gateways/class-bank-transfer.php:43
+#: payments/gateways/class-paypal.php:52
+#: payments/gateways/class-skrill.php:44
+#@ booking
+msgid "Custom Logo"
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:32
+#: payments/gateways/class-authorize.net.php:62
+#: payments/gateways/class-bank-transfer.php:52
+#: payments/gateways/class-paypal.php:61
+#: payments/gateways/class-skrill.php:53
+#@ booking
+msgid "Default Status"
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:34
+#: payments/gateways/class-authorize.net.php:64
+#: payments/gateways/class-paypal.php:63
+#: payments/gateways/class-skrill.php:55
+#@ booking
+msgid "Show/Hide Gateway On Front End."
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:41
+#@ booking
+msgid "2CheckOut Sandbox"
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:43
+#: payments/gateways/class-authorize.net.php:73
+#: payments/gateways/class-paypal.php:72
+#@ booking
+msgid "Only for Developer use."
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:50
+#@ booking
+msgid "2CheckOut Business Email"
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:59
+#@ booking
+msgid "2CheckOut Ipn Url"
+msgstr ""
+
+#: payments/gateways/class-2checkout.php:61
+#: payments/gateways/class-paypal.php:90
+#: payments/gateways/class-skrill.php:73
+#@ booking
+msgid "Do not edit this Url"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:37
+#: payments/gateways/class-authorize.net.php:39
+#@ booking
+msgid "Authorize.net Settings"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:71
+#@ booking
+msgid "Authorize.net Sandbox"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:80
+#@ booking
+msgid "Login Id"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:82
+#@ booking
+msgid "This is API Login Id"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:88
+#@ booking
+msgid "Transaction Key"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:90
+#@ booking
+msgid "API Transaction Key"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:97
+#@ booking
+msgid "Authorize.net Ipn Url"
+msgstr ""
+
+#: payments/gateways/class-authorize.net.php:99
+#@ booking
+msgid "Do not edit this Url."
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:27
+#: payments/gateways/class-bank-transfer.php:29
+#@ booking
+msgid "Bank Transfer Settings"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:60
+#: payments/gateways/class-bank-transfer.php:129
+#@ booking
+msgid "Bank Information"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:62
+#@ booking
+msgid "Enter the bank name to which you want to transfer payment"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:67
+#@ booking
+msgid "Account Number"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:74
+#: payments/gateways/class-bank-transfer.php:143
+#@ booking
+msgid "Other Information"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:76
+#@ booking
+msgid "Enter your bank Other Information."
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:103
+#: templates/confirmation.php:30
+#@ booking
+msgid "Order detail"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:108
+#: templates/confirmation.php:32
+#@ booking
+msgid "Order"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:121
+#@ booking
+msgid "Bank detail"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:124
+#@ booking
+msgid "Please transfer amount To this account, After payment Received we will process your Order."
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:136
+#@ booking
+msgid "Account No"
+msgstr ""
+
+#: payments/gateways/class-paypal.php:36
+#: payments/gateways/class-paypal.php:38
+#@ booking
+msgid "Paypal Settings"
+msgstr ""
+
+#: payments/gateways/class-paypal.php:70
+#@ booking
+msgid "Paypal Sandbox"
+msgstr ""
+
+#: payments/gateways/class-paypal.php:79
+#@ booking
+msgid "Paypal Business Email"
+msgstr ""
+
+#: payments/gateways/class-paypal.php:88
+#@ booking
+msgid "Paypal Ipn Url"
+msgstr ""
+
+#: payments/gateways/class-skrill.php:28
+#: payments/gateways/class-skrill.php:30
+#@ booking
+msgid "Skrill-MoneyBooker Settings"
+msgstr ""
+
+#: payments/gateways/class-skrill.php:62
+#@ booking
+msgid "Skrill-MoneryBooker Business Email"
+msgstr ""
+
+#: payments/gateways/class-skrill.php:71
+#@ booking
+msgid "Skrill-MoneryBooker Ipn Url"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "Add Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "Add New Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "Edit"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "Edit Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "New Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "View Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "Search Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "No Booking found"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "No Booking found in trash"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "Parent Booking"
+msgstr ""
+
+#: post-types/booking.php:1
+#@ booking
+msgid "This is where you can add new booking"
+msgstr ""
+
+#: post-types/reviews.php:86
+#: settings/includes/plugin_options.php:201
+#@ booking
+msgid "Reviews"
+msgstr ""
+
+#: post-types/reviews.php:87
+#: post-types/reviews.php:90
+#@ booking
+msgid "Add New Review"
+msgstr ""
+
+#: post-types/reviews.php:88
+#@ booking
+msgid "Edit Review"
+msgstr ""
+
+#: post-types/reviews.php:89
+#@ booking
+msgid "New Review Item"
+msgstr ""
+
+#: post-types/reviews.php:91
+#@ booking
+msgid "View Reviews Item"
+msgstr ""
+
+#: post-types/reviews.php:92
+#@ booking
+msgid "Search Reviews"
+msgstr ""
+
+#: post-types/reviews.php:93
+#: post-types/rooms.php:1
+#: post-types/rooms_capacity.php:31
+#@ booking
+msgid "Nothing found"
+msgstr ""
+
+#: post-types/reviews.php:94
+#: post-types/rooms.php:1
+#: post-types/rooms_capacity.php:32
+#@ booking
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: post-types/rooms.php:1
+#@ booking
+msgid "Add New Room"
+msgstr ""
+
+#: post-types/rooms.php:1
+#@ booking
+msgid "Edit Room"
+msgstr ""
+
+#: post-types/rooms.php:1
+#@ booking
+msgid "New Room Item"
+msgstr ""
+
+#: post-types/rooms.php:1
+#@ booking
+msgid "View Room Item"
+msgstr ""
+
+#: post-types/rooms.php:1
+#: post-types/rooms_capacity.php:30
+#@ booking
+msgid "Search"
+msgstr ""
+
+#: post-types/rooms_capacity.php:23
+#: post-types/rooms_capacity.php:24
+#@ booking
+msgid "Rooms Capacity"
+msgstr ""
+
+#: post-types/rooms_capacity.php:25
+#: post-types/rooms_capacity.php:28
+#@ booking
+msgid "Add New Room Capacity"
+msgstr ""
+
+#: post-types/rooms_capacity.php:26
+#@ booking
+msgid "Edit Room Capacity"
+msgstr ""
+
+#: post-types/rooms_capacity.php:27
+#@ booking
+msgid "New Rooms Capacity"
+msgstr ""
+
+#: post-types/rooms_capacity.php:29
+#@ booking
+msgid "View Room Capacity"
+msgstr ""
+
+#: rooms/functions.php:26
+#: rooms/functions.php:83
+#@ booking
+msgid "Sort by"
+msgstr ""
+
+#: rooms/functions.php:123
+#: rooms/rooms-grid.php:1
+#: rooms/rooms-modern.php:1
+#: rooms/single-rooms.php:83
+#: templates/room_search.php:277
+#: templates/templates_functions.php:779
+#: templates/templates_functions.php:1001
+#@ booking
+msgid "Starts from"
+msgstr ""
+
+#: rooms/functions.php:125
+#: rooms/rooms-grid.php:1
+#: rooms/rooms-modern.php:1
+#@ booking
+msgid "Room Detail"
+msgstr ""
+
+#: rooms/functions.php:147
+#: rooms/functions.php:171
+#@ booking
+msgid "reviews"
+msgstr ""
+
+#: rooms/functions.php:305
+#@ booking
+msgid "Field name is required"
+msgstr ""
+
+#: rooms/functions.php:309
+#@ booking
+msgid "Whitespaces not allowed"
+msgstr ""
+
+#: rooms/functions.php:316
+#@ booking
+msgid "Name already exist."
+msgstr ""
+
+#: rooms/functions.php:319
+#@ booking
+msgid "Name Available"
+msgstr ""
+
+#: rooms/rooms-classic.php:1
+#: rooms/rooms-grid.php:1
+#@ booking
+msgid "More"
+msgstr ""
+
+#: rooms/rooms-classic.php:1
+#: rooms/rooms-grid.php:1
+#: rooms/rooms-modern.php:1
+#: rooms/rooms-plain.php:1
+#: templates/room_search.php:303
+#: templates/templates_functions.php:1038
+#: templates/templates_functions.php:1106
+#@ booking
+msgid "No Rooms found"
+msgstr ""
+
+#: rooms/rooms-plain.php:1
+#: rooms/single-rooms.php:103
+#: templates/room_search.php:268
+#: templates/templates_functions.php:769
+#: templates/templates_functions.php:991
+#@ booking
+msgid "Room Features"
+msgstr ""
+
+#: rooms/rooms_element.php:54
+#@ booking
+msgid "Edit Rooms Options"
+msgstr ""
+
+#: rooms/rooms_element.php:61
+#@ booking
+msgid "Section Title"
+msgstr ""
+
+#: rooms/rooms_element.php:68
+#@ booking
+msgid "Rooms Design View"
+msgstr ""
+
+#: rooms/rooms_element.php:74
+#@ booking
+msgid "Classic"
+msgstr ""
+
+#: rooms/rooms_element.php:75
+#@ booking
+msgid "Plain"
+msgstr ""
+
+#: rooms/rooms_element.php:76
+#@ booking
+msgid "Modern"
+msgstr ""
+
+#: rooms/rooms_element.php:77
+#@ booking
+msgid "Grid"
+msgstr ""
+
+#: rooms/rooms_element.php:85
+#@ booking
+msgid "Room Type"
+msgstr ""
+
+#: rooms/rooms_element.php:101
+#@ booking
+msgid "Post Order"
+msgstr ""
+
+#: rooms/rooms_element.php:107
+#@ booking
+msgid "Asc"
+msgstr ""
+
+#: rooms/rooms_element.php:108
+#@ booking
+msgid "DESC"
+msgstr ""
+
+#: rooms/rooms_element.php:116
+#@ booking
+msgid "Length of Excerpt"
+msgstr ""
+
+#: rooms/rooms_element.php:123
+#@ booking
+msgid "Enter number of character for short description text"
+msgstr ""
+
+#: rooms/rooms_element.php:130
+#: rooms/rooms_element.php:134
+#@ booking
+msgid "Pagination"
+msgstr ""
+
+#: rooms/rooms_element.php:135
+#@ booking
+msgid "Single Page"
+msgstr ""
+
+#: rooms/rooms_element.php:141
+#@ booking
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: rooms/rooms_element.php:148
+#@ booking
+msgid "To display all the records, leave this field blank"
+msgstr ""
+
+#: rooms/rooms_element.php:154
+#@ booking
+msgid "Filterable"
+msgstr ""
+
+#: rooms/rooms_element.php:158
+#@ booking
+msgid "Yes"
+msgstr ""
+
+#: rooms/rooms_element.php:159
+#@ booking
+msgid "No"
+msgstr ""
+
+#: rooms/rooms_element.php:165
+#@ booking
+msgid "Insert"
+msgstr ""
+
+#: rooms/single-rooms.php:74
+#@ booking
+msgid "Room Overview"
+msgstr ""
+
+#: rooms/single-rooms.php:90
+#@ booking
+msgid "Pages:"
+msgstr ""
+
+#: rooms/single-rooms.php:134
+#@ booking
+msgid "Complete Overview"
+msgstr ""
+
+#: rooms/single-rooms.php:141
+#@ booking
+msgid "Share"
+msgstr ""
+
+#: rooms/single-rooms.php:160
+#, php-format
+#@ booking
+msgid "%s Reviews by guests"
+msgstr ""
+
+#: rooms/single-rooms.php:239
+#@ booking
+msgid "Looking for review? There is no review here!"
+msgstr ""
+
+#: rooms/single-rooms.php:252
+#@ booking
+msgid "Leave a Review"
+msgstr ""
+
+#: rooms/single-rooms.php:313
+#@ booking
+msgid "Enter Name"
+msgstr ""
+
+#: rooms/single-rooms.php:318
+#@ booking
+msgid "Enter Email"
+msgstr ""
+
+#: rooms/single-rooms.php:323
+#@ booking
+msgid "Enter Subject"
+msgstr ""
+
+#: rooms/single-rooms.php:329
+#@ booking
+msgid "Enter Booking Id"
+msgstr ""
+
+#: rooms/single-rooms.php:336
+#: settings/includes/plugin_options.php:323
+#: settings/includes/plugin_options.php:378
+#@ booking
+msgid "Message"
+msgstr ""
+
+#: rooms/single-rooms.php:340
+#: settings/plugin_settings.php:541
+#: settings/plugin_settings.php:542
+#@ booking
+msgid "Add Review"
+msgstr ""
+
+#: rooms/single-rooms.php:362
+#: rooms/single-rooms.php:422
+#@ booking
+msgid "QUICK RESERVATIONS"
+msgstr ""
+
+#: rooms/single-rooms.php:371
+#@ booking
+msgid "Select Location"
+msgstr ""
+
+#: rooms/single-rooms.php:381
+#: rooms/single-rooms.php:387
+#@ booking
+msgid "Calender"
+msgstr ""
+
+#: rooms/single-rooms.php:425
+#@ booking
+msgid "The Hotel Name 1234 South Lipsum Avenue, NewYork United States , 123456"
+msgstr ""
+
+#: rooms/single-rooms.php:426
+#@ booking
+msgid "Phone:"
+msgstr ""
+
+#: rooms/single-rooms.php:427
+#: templates/confirmation.php:84
+#: templates/confirmation.php:88
+#: templates/templates_functions.php:1555
+#: templates/templates_functions.php:1559
+#@ booking
+msgid "Fax:"
+msgstr ""
+
+#: rooms/single-rooms.php:428
+#: templates/confirmation.php:92
+#: templates/templates_functions.php:1563
+#@ booking
+msgid "Email:"
+msgstr ""
+
+#: settings/includes/plugin_options.php:17
+#@ booking
+msgid "Saving changes..."
+msgstr ""
+
+#: settings/includes/plugin_options.php:39
+#@ booking
+msgid "Save All Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:42
+#: settings/includes/plugin_options_functions.php:27
+#@ booking
+msgid "Reset All Options"
+msgstr ""
+
+#: settings/includes/plugin_options.php:149
+#: settings/includes/plugin_options.php:219
+#@ booking
+msgid "General Options"
+msgstr ""
+
+#: settings/includes/plugin_options.php:157
+#: settings/includes/plugin_options.php:417
+#@ booking
+msgid "Hotel Details"
+msgstr ""
+
+#: settings/includes/plugin_options.php:165
+#: settings/includes/plugin_options.php:508
+#@ booking
+msgid "Payment Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:174
+#@ booking
+msgid "Payment Gateways"
+msgstr ""
+
+#: settings/includes/plugin_options.php:192
+#: settings/includes/plugin_options.php:604
+#@ booking
+msgid "Features"
+msgstr ""
+
+#: settings/includes/plugin_options.php:209
+#: settings/includes/plugin_options.php:685
+#@ booking
+msgid "Search Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:224
+#: settings/includes/plugin_options.php:226
+#@ booking
+msgid "Booking Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:231
+#@ booking
+msgid "Reservation Page"
+msgstr ""
+
+#: settings/includes/plugin_options.php:233
+#@ booking
+msgid "Go to Pages and create New Page, Assign User Reservation Template and then choose that New Page here"
+msgstr ""
+
+#: settings/includes/plugin_options.php:239
+#@ booking
+msgid "Allow Booking"
+msgstr ""
+
+#: settings/includes/plugin_options.php:248
+#@ booking
+msgid "Rooms Booking Type"
+msgstr ""
+
+#: settings/includes/plugin_options.php:258
+#@ booking
+msgid "Minimum Booking"
+msgstr ""
+
+#: settings/includes/plugin_options.php:267
+#@ booking
+msgid "Advance Deposit"
+msgstr ""
+
+#: settings/includes/plugin_options.php:269
+#@ booking
+msgid "Allow advance deposit %"
+msgstr ""
+
+#: settings/includes/plugin_options.php:275
+#: templates/templates_functions.php:1467
+#@ booking
+msgid "Full Payment"
+msgstr ""
+
+#: settings/includes/plugin_options.php:284
+#: settings/includes/plugin_options.php:286
+#@ booking
+msgid "Booking Thank you Message"
+msgstr ""
+
+#: settings/includes/plugin_options.php:295
+#@ booking
+msgid "Thank you for booking with us."
+msgstr ""
+
+#: settings/includes/plugin_options.php:331
+#: settings/includes/plugin_options.php:333
+#@ booking
+msgid "Rooms Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:339
+#@ booking
+msgid "Total No of Rooms"
+msgstr ""
+
+#: settings/includes/plugin_options.php:343
+#@ booking
+msgid "100"
+msgstr ""
+
+#: settings/includes/plugin_options.php:347
+#@ booking
+msgid "Adult Price"
+msgstr ""
+
+#: settings/includes/plugin_options.php:349
+#@ booking
+msgid "Please set default price for adults."
+msgstr ""
+
+#: settings/includes/plugin_options.php:351
+#@ booking
+msgid "10"
+msgstr ""
+
+#: settings/includes/plugin_options.php:355
+#@ booking
+msgid "Child Price"
+msgstr ""
+
+#: settings/includes/plugin_options.php:357
+#@ booking
+msgid "Please set default price for children."
+msgstr ""
+
+#: settings/includes/plugin_options.php:359
+#@ booking
+msgid "5"
+msgstr ""
+
+#: settings/includes/plugin_options.php:363
+#: settings/includes/plugin_options.php:365
+#@ booking
+msgid "Booking Cancellation Message"
+msgstr ""
+
+#: settings/includes/plugin_options.php:374
+#@ booking
+msgid "You can cancel booking."
+msgstr ""
+
+#: settings/includes/plugin_options.php:386
+#@ booking
+msgid "Language Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:394
+#@ booking
+msgid "Select Language File"
+msgstr ""
+
+#: settings/includes/plugin_options.php:407
+#@ booking
+msgid "Select Plugin Language"
+msgstr ""
+
+#: settings/includes/plugin_options.php:429
+#@ booking
+msgid "Street Address"
+msgstr ""
+
+#: settings/includes/plugin_options.php:478
+#@ booking
+msgid "Email Id"
+msgstr ""
+
+#: settings/includes/plugin_options.php:492
+#@ booking
+msgid "Maps"
+msgstr ""
+
+#: settings/includes/plugin_options.php:501
+#@ booking
+msgid "This email use in notification for Booking"
+msgstr ""
+
+#: settings/includes/plugin_options.php:513
+#: settings/includes/plugin_options.php:515
+#@ booking
+msgid "General Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:520
+#@ booking
+msgid "VAT On/Off"
+msgstr ""
+
+#: settings/includes/plugin_options.php:529
+#@ booking
+msgid "VAT(Value Added Tax) in %"
+msgstr ""
+
+#: settings/includes/plugin_options.php:531
+#@ booking
+msgid "Add Numaric value eg:14"
+msgstr ""
+
+#: settings/includes/plugin_options.php:539
+#: settings/includes/plugin_options.php:541
+#@ booking
+msgid "Currency Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:555
+#@ booking
+msgid "Gateways Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:583
+#: settings/includes/plugin_options.php:596
+#@ booking
+msgid "Extras Settings"
+msgstr ""
+
+#: settings/includes/plugin_options.php:587
+#@ booking
+msgid "Extras On/Off"
+msgstr ""
+
+#: settings/includes/plugin_options.php:598
+#@ booking
+msgid "Add/Edit Extras"
+msgstr ""
+
+#: settings/includes/plugin_options.php:608
+#@ booking
+msgid "Features On/Off"
+msgstr ""
+
+#: settings/includes/plugin_options.php:616
+#@ booking
+msgid "Add Features"
+msgstr ""
+
+#: settings/includes/plugin_options.php:627
+#@ booking
+msgid "Reviews Setting"
+msgstr ""
+
+#: settings/includes/plugin_options.php:632
+#@ booking
+msgid "Reviews Per Page"
+msgstr ""
+
+#: settings/includes/plugin_options.php:640
+#@ booking
+msgid "Reviews From Frontend"
+msgstr ""
+
+#: settings/includes/plugin_options.php:649
+#@ booking
+msgid "New Review Status"
+msgstr ""
+
+#: settings/includes/plugin_options.php:655
+#@ booking
+msgid "Publish"
+msgstr ""
+
+#: settings/includes/plugin_options.php:658
+#@ booking
+msgid "Booking Id Check"
+msgstr ""
+
+#: settings/includes/plugin_options.php:667
+#: settings/includes/plugin_options.php:669
+#@ booking
+msgid "Dynamic Review List"
+msgstr ""
+
+#: settings/includes/plugin_options.php:674
+#@ booking
+msgid "Dynamic Review"
+msgstr ""
+
+#: settings/includes/plugin_options.php:691
+#@ booking
+msgid "No of Childs"
+msgstr ""
+
+#: settings/includes/plugin_options.php:698
+#@ booking
+msgid "No of Adults"
+msgstr ""
+
+#: settings/includes/plugin_options.php:707
+#: settings/includes/plugin_options.php:714
+#@ booking
+msgid "import & export"
+msgstr ""
+
+#: settings/includes/plugin_options.php:718
+#@ booking
+msgid "Export"
+msgstr ""
+
+#: settings/includes/plugin_options.php:720
+#@ booking
+msgid "If you want to make changes in your site or want to preserve your current settings, Export them code by saving this code with you. You can restore your settings by pasting this code in Import section below"
+msgstr ""
+
+#: settings/includes/plugin_options.php:726
+#@ booking
+msgid "Import"
+msgstr ""
+
+#: settings/includes/plugin_options.php:728
+#@ booking
+msgid "To Import your settings, paste the code that you got in above area and saved it with you"
+msgstr ""
+
+#: settings/includes/plugin_options_fields.php:623
+#@ booking
+msgid "Please select a page"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:13
+#@ booking
+msgid "All Settings Saved"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:50
+#@ booking
+msgid "Need to rent a car?"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:55
+#@ booking
+msgid "Yes, I’m interested in renting a car for this trip."
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:60
+#@ booking
+msgid "Breakfast"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:65
+#@ booking
+msgid "Breakfast costs £24.50 per person per night."
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:70
+#@ booking
+msgid "Parking Space"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:75
+#@ booking
+msgid "Private Parking is possible on Site and Costs 10£ per Day"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:83
+#@ booking
+msgid "Balcony with view"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:85
+#: settings/includes/plugin_options_functions.php:92
+#: settings/includes/plugin_options_functions.php:99
+#: settings/includes/plugin_options_functions.php:106
+#: settings/includes/plugin_options_functions.php:113
+#: settings/includes/plugin_options_functions.php:120
+#@ booking
+msgid "Lorem ipsum dolor sit amet, consetetur sadipscing elitr."
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:90
+#@ booking
+msgid "Flat-screen TV"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:97
+#@ booking
+msgid "Air Conditioning"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:104
+#@ booking
+msgid "Private Pool"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:111
+#@ booking
+msgid "Free WiFi"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:118
+#@ booking
+msgid "Bath / Shower"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:128
+#@ booking
+msgid "Hotel service"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:133
+#@ booking
+msgid "Cleanliness"
+msgstr ""
+
+#: settings/includes/plugin_options_functions.php:138
+#@ booking
+msgid "Room comfort"
+msgstr ""
+
+#: settings/plugin_settings.php:52
+#: settings/plugin_settings.php:53
+#@ booking
+msgid "Add Extra Feature"
+msgstr ""
+
+#: settings/plugin_settings.php:88
+#: settings/plugin_settings.php:227
+#@ booking
+msgid "Extra Feature Settings"
+msgstr ""
+
+#: settings/plugin_settings.php:103
+#: settings/plugin_settings.php:244
+#: templates/templates_functions.php:495
+#@ booking
+msgid "Price"
+msgstr ""
+
+#: settings/plugin_settings.php:114
+#: settings/plugin_settings.php:256
+#@ booking
+msgid "Type"
+msgstr ""
+
+#: settings/plugin_settings.php:121
+#: settings/plugin_settings.php:133
+#: settings/plugin_settings.php:264
+#: settings/plugin_settings.php:277
+#@ booking
+msgid "None"
+msgstr ""
+
+#: settings/plugin_settings.php:121
+#: settings/plugin_settings.php:264
+#@ booking
+msgid "One Time"
+msgstr ""
+
+#: settings/plugin_settings.php:121
+#: settings/plugin_settings.php:264
+#@ booking
+msgid "Daily"
+msgstr ""
+
+#: settings/plugin_settings.php:126
+#: settings/plugin_settings.php:269
+#: templates/room_search.php:46
+#: templates/room_search.php:111
+#: templates/templates_functions.php:493
+#: templates/templates_functions.php:1032
+#@ booking
+msgid "Guests"
+msgstr ""
+
+#: settings/plugin_settings.php:133
+#: settings/plugin_settings.php:277
+#@ booking
+msgid "Per Head"
+msgstr ""
+
+#: settings/plugin_settings.php:133
+#: settings/plugin_settings.php:277
+#@ booking
+msgid "Group"
+msgstr ""
+
+#: settings/plugin_settings.php:138
+#: settings/plugin_settings.php:282
+#@ booking
+msgid "Frontend Changeable"
+msgstr ""
+
+#: settings/plugin_settings.php:149
+#: settings/plugin_settings.php:294
+#: settings/plugin_settings.php:403
+#: settings/plugin_settings.php:488
+#@ booking
+msgid "Description"
+msgstr ""
+
+#: settings/plugin_settings.php:209
+#, php-format
+#@ booking
+msgid "This feature \"%s\" is already exist. Please create with another Title."
+msgstr ""
+
+#: settings/plugin_settings.php:232
+#@ booking
+msgid "Extra Feature Title"
+msgstr ""
+
+#: settings/plugin_settings.php:311
+#@ booking
+msgid "Update Extra Feature"
+msgstr ""
+
+#: settings/plugin_settings.php:346
+#: settings/plugin_settings.php:347
+#@ booking
+msgid "Add Feature"
+msgstr ""
+
+#: settings/plugin_settings.php:379
+#: settings/plugin_settings.php:460
+#@ booking
+msgid "Feature Settings"
+msgstr ""
+
+#: settings/plugin_settings.php:393
+#: settings/plugin_settings.php:476
+#@ booking
+msgid "Image"
+msgstr ""
+
+#: settings/plugin_settings.php:465
+#@ booking
+msgid "Feature Title"
+msgstr ""
+
+#: settings/plugin_settings.php:506
+#@ booking
+msgid "Update Feature"
+msgstr ""
+
+#: settings/plugin_settings.php:572
+#: settings/plugin_settings.php:631
+#@ booking
+msgid "Review Settings"
+msgstr ""
+
+#: settings/plugin_settings.php:636
+#@ booking
+msgid "Review Title"
+msgstr ""
+
+#: settings/plugin_settings.php:653
+#@ booking
+msgid "Update Review"
+msgstr ""
+
+#: templates/class_reservation_templates.php:1
+#@ booking
+msgid "Reservation"
+msgstr ""
+
+#: templates/confirmation.php:33
+#@ booking
+msgid "Booking ID"
+msgstr ""
+
+#: templates/confirmation.php:51
+#: templates/room_search.php:95
+#@ booking
+msgid "STEP 1"
+msgstr ""
+
+#: templates/confirmation.php:51
+#: templates/room_search.php:95
+#@ booking
+msgid "Add Assentioals"
+msgstr ""
+
+#: templates/confirmation.php:55
+#: templates/room_search.php:99
+#@ booking
+msgid "STEP 2"
+msgstr ""
+
+#: templates/confirmation.php:55
+#: templates/room_search.php:99
+#@ booking
+msgid "Reservation and Payments"
+msgstr ""
+
+#: templates/confirmation.php:59
+#: templates/room_search.php:103
+#@ booking
+msgid "STEP 3"
+msgstr ""
+
+#: templates/confirmation.php:59
+#: templates/room_search.php:103
+#@ booking
+msgid "Confirmation"
+msgstr ""
+
+#: templates/confirmation.php:68
+#: templates/templates_functions.php:1544
+#@ booking
+msgid "Thank you!!!"
+msgstr ""
+
+#: templates/confirmation.php:71
+#: templates/templates_functions.php:1547
+#@ booking
+msgid "cs_thank_msg"
+msgstr ""
+
+#: templates/confirmation.php:77
+#: templates/templates_functions.php:1550
+#@ booking
+msgid "cs_thank_title"
+msgstr ""
+
+#: templates/confirmation.php:84
+#: templates/templates_functions.php:1555
+#@ booking
+msgid "cs_confir_phone"
+msgstr ""
+
+#: templates/confirmation.php:88
+#: templates/templates_functions.php:1559
+#@ booking
+msgid "cs_confir_fax"
+msgstr ""
+
+#: templates/confirmation.php:92
+#: templates/templates_functions.php:1563
+#@ booking
+msgid "cs_confir_email"
+msgstr ""
+
+#: templates/confirmation.php:96
+#@ booking
+msgid "Back to Home page"
+msgstr ""
+
+#: templates/confirmation.php:107
+#: templates/page_reservation.php:1
+#@ booking
+msgid "Oops! direct access is not allowed."
+msgstr ""
+
+#: templates/page_reservation.php:1
+#@ booking
+msgid "Oops! please select a hotel first."
+msgstr ""
+
+#: templates/page_reservation.php:1
+#@ booking
+msgid "Booking is disabled."
+msgstr ""
+
+#: templates/room_search.php:25
+#@ booking
+msgid "Search Summery"
+msgstr ""
+
+#: templates/room_search.php:29
+#@ booking
+msgid "Check-In"
+msgstr ""
+
+#: templates/room_search.php:30
+#@ booking
+msgid "Check-Out"
+msgstr ""
+
+#: templates/room_search.php:31
+#@ booking
+msgid " Rooms"
+msgstr ""
+
+#: templates/room_search.php:62
+#: templates/templates_functions.php:1481
+#@ booking
+msgid "Total Amount"
+msgstr ""
+
+#: templates/room_search.php:66
+#@ booking
+msgid "Vat"
+msgstr ""
+
+#: templates/room_search.php:76
+#@ booking
+msgid "Grand total"
+msgstr ""
+
+#: templates/room_search.php:109
+#: templates/room_search.php:110
+#@ booking
+msgid "1"
+msgstr ""
+
+#: templates/room_search.php:46
+#: templates/room_search.php:111
+#: templates/templates_functions.php:493
+#: templates/templates_functions.php:1032
+#@ booking
+msgid " Adult(s)"
+msgstr ""
+
+#: templates/room_search.php:111
+#: templates/templates_functions.php:493
+#: templates/templates_functions.php:1032
+#@ booking
+msgid " Child(s)"
+msgstr ""
+
+#: templates/templates_functions.php:127
+#: widgets/room_search.php:108
+#@ booking
+msgid "Check in Date"
+msgstr ""
+
+#: templates/templates_functions.php:134
+#: widgets/room_search.php:116
+#@ booking
+msgid "Check out Date"
+msgstr ""
+
+#: templates/templates_functions.php:144
+#: templates/templates_functions.php:162
+#@ booking
+msgid "Select"
+msgstr ""
+
+#: templates/templates_functions.php:483
+#@ booking
+msgid "Price is empty"
+msgstr ""
+
+#: templates/templates_functions.php:512
+#@ booking
+msgid "Price Breakdwon"
+msgstr ""
+
+#: templates/templates_functions.php:519
+#@ booking
+msgid "Date"
+msgstr ""
+
+#: templates/templates_functions.php:520
+#@ booking
+msgid "Adults:"
+msgstr ""
+
+#: templates/templates_functions.php:521
+#@ booking
+msgid "Childrens"
+msgstr ""
+
+#: templates/templates_functions.php:522
+#@ booking
+msgid "Total"
+msgstr ""
+
+#: templates/templates_functions.php:837
+#@ booking
+msgid "Removed"
+msgstr ""
+
+#: templates/templates_functions.php:1102
+#@ booking
+msgid "Please fill required fileds"
+msgstr ""
+
+#: templates/templates_functions.php:1340
+#@ booking
+msgid "Reservation Detail"
+msgstr ""
+
+#: templates/templates_functions.php:1355
+#@ booking
+msgid "Continue"
+msgstr ""
+
+#: templates/templates_functions.php:1386
+#@ booking
+msgid "Your Detail"
+msgstr ""
+
+#: templates/templates_functions.php:1394
+#@ booking
+msgid "First Name *"
+msgstr ""
+
+#: templates/templates_functions.php:1400
+#@ booking
+msgid "Last Name *"
+msgstr ""
+
+#: templates/templates_functions.php:1408
+#@ booking
+msgid "Email *"
+msgstr ""
+
+#: templates/templates_functions.php:1414
+#@ booking
+msgid "Telephone Number"
+msgstr ""
+
+#: templates/templates_functions.php:1458
+#@ booking
+msgid "Make Payment"
+msgstr ""
+
+#: templates/templates_functions.php:1475
+#@ booking
+msgid "Deposit Amount"
+msgstr ""
+
+#: templates/templates_functions.php:1483
+#@ booking
+msgid "Doposit Amount"
+msgstr ""
+
+#: templates/templates_functions.php:1488
+#@ booking
+msgid "*Pay the rest on arrival"
+msgstr ""
+
+#: templates/templates_functions.php:1493
+#@ booking
+msgid "Select Payment Method"
+msgstr ""
+
+#: templates/templates_functions.php:1531
+#@ booking
+msgid "Pay Now"
+msgstr ""
+
+#: templates/templates_functions.php:1567
+#@ booking
+msgid "BACK TO HOME PAGE"
+msgstr ""
+
+#: widgets/room_search.php:91
+#@ booking
+msgid "Select Hotels"
+msgstr ""
+
+#: templates/room_search.php:46
+#@ booking
+msgid "Child(s)"
+msgstr ""
+
+#: payments/gateways/class-bank-transfer.php:69
+#@ booking
+msgid "Enter your bank Account Id"
+msgstr ""
+
